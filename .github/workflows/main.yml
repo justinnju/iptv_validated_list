@@ -1,0 +1,141 @@
+name: Validate Stream URLs
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:
+    inputs:
+      timeout:
+        description: 'URL validation timeout (seconds)'
+        required: true
+        default: '10'
+        type: number
+      check_all:
+        description: 'Validate all URLs (slower but thorough)'
+        required: true
+        default: true
+        type: boolean
+      source_url:
+        description: 'JSON source URL'
+        required: true
+        default: 'https://iptv-org.github.io/api/streams.json'
+        type: string
+
+jobs:
+  validate-urls:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Validate URLs
+        run: |
+          python -c "
+          import json
+          import requests
+          import sys
+          import os
+          from urllib.parse import urlparse
+          
+          # Get inputs from GitHub Actions
+          TIMEOUT = int('${{ inputs.timeout }}')
+          CHECK_ALL = '${{ inputs.check_all }}'.lower() == 'true'
+          SOURCE_URL = '${{ inputs.source_url }}'
+          
+          def is_valid_url(url):
+              if not url:
+                  return False
+              try:
+                  parsed = urlparse(url)
+                  if not all([parsed.scheme, parsed.netloc]):
+                      return False
+                  
+                  if CHECK_ALL:
+                      # Full validation with actual request
+                      response = requests.head(url, timeout=TIMEOUT, allow_redirects=True)
+                      return response.status_code == 200
+                  else:
+                      # Quick validation - just check URL format
+                      return True
+                      
+              except Exception as e:
+                  print(f'Error checking {url}: {str(e)}')
+                  return False
+          
+          def fetch_and_validate_streams():
+              try:
+                  print(f'Fetching streams from {SOURCE_URL}')
+                  print(f'Timeout set to {TIMEOUT} seconds')
+                  print(f'Full validation: {CHECK_ALL}')
+                  
+                  response = requests.get(SOURCE_URL)
+                  response.raise_for_status()
+                  data = response.json()
+                  
+                  valid_streams = []
+                  total = len(data)
+                  
+                  print(f'Validating {total} URLs...')
+                  
+                  for idx, stream in enumerate(data, 1):
+                      url = stream.get('url', '')
+                      print(f'Checking {idx}/{total}: {url}')
+                      
+                      if is_valid_url(url):
+                          valid_streams.append(stream)
+                          print('✓ Valid')
+                      else:
+                          print('✗ Invalid')
+                  
+                  print(f'\nFound {len(valid_streams)} valid streams out of {total}')
+                  
+                  # Save valid streams to a new JSON file
+                  with open('validated_streams.json', 'w') as f:
+                      json.dump(valid_streams, f, indent=2)
+                  
+                  # Create summary file
+                  with open('validation_summary.md', 'w') as f:
+                      f.write(f'# Validation Summary\n\n')
+                      f.write(f'- Source: {SOURCE_URL}\n')
+                      f.write(f'- Total streams checked: {total}\n')
+                      f.write(f'- Valid streams: {len(valid_streams)}\n')
+                      f.write(f'- Invalid streams: {total - len(valid_streams)}\n')
+                      f.write(f'- Validation mode: {"Full" if CHECK_ALL else "Quick"}\n')
+                      f.write(f'- Timeout: {TIMEOUT} seconds\n')
+                  
+                  if not valid_streams:
+                      print('No valid streams found!')
+                      sys.exit(1)
+                      
+              except Exception as e:
+                  print(f'Error: {str(e)}')
+                  sys.exit(1)
+          
+          fetch_and_validate_streams()
+          "
+          
+      - name: Update README
+        run: |
+          cat validation_summary.md > README.md
+          echo -e "\n## Latest Validation Status" >> README.md
+          echo "Last updated: $(date -u)" >> README.md
+          
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add validated_streams.json README.md
+          git commit -m "Update validated streams: $(date -u)"
+          git push
