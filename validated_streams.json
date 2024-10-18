@@ -12367,5 +12367,194 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "AghaniAghaniTV.lb",
+    "url": "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AghapyKids.us",
+    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AghapyTV.eg",
+    "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroBrasilTV.br",
+    "url": "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroBrasilTV.br",
+    "url": "https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTV.bg",
+    "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTV.pe",
+    "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTV.ro",
+    "url": "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTV.tr",
+    "url": "https://yayin30.haber100.com/live/agrotv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTVAzerbaijan.az",
+    "url": "https://yayin30.haber100.com/live/agrotv2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AguacateTV.ve",
+    "url": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AhoraTV.do",
+    "url": "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AIONTV.do",
+    "url": "https://vdo.aiontelevision.com:3735/live/aiontelevisionlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AiredeSantaFe.ar",
+    "url": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AISTTV.ru",
+    "url": "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AjmanTV.ae",
+    "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AjyalTV.ps",
+    "url": "http://htvajyal.mada.ps:8888/ajyal/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AjyalTV.ps",
+    "url": "http://htvmada.mada.ps:8888/ajyal/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Akaku53.us",
+    "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Akaku54.us",
+    "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Akaku55.us",
+    "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AKCTV.us",
+    "url": "https://install.akctvcontrol.com/speed/broadcast/138/desktop-playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AKCTV.us",
+    "url": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AKCTVMeettheBreeds.us",
+    "url": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AKCTVPuppies.us",
+    "url": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AkitTV.tr",
+    "url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AksuTV.tr",
+    "url": "https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
