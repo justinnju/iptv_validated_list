@@ -17708,5 +17708,124 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Canal35Yepocapa.gt",
+    "url": "https://cdn.streamhispanatv.net:3948/live/yepotvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal38.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal44.mx",
+    "url": "https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal45.es",
+    "url": "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal55TelemoriscoTV.co",
+    "url": "http://canal.mediaserver.com.co/live/telemorisco.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal56.do",
+    "url": "https://vdopanel.jlahozconsulting.com/p/3124/hybrid/play.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal56.es",
+    "url": "https://videos.canal56.com/directe/stream/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal74SanAntonio.cl",
+    "url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal100Chinique.gt",
+    "url": "https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal2000.es",
+    "url": "http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalAlphaJura.ch",
+    "url": "https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalCapital.co",
+    "url": "https://cdns.livewave.co:8081/ccapitallive/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalCatorce.do",
+    "url": "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalChilote.cl",
+    "url": "https://oracle.streaminghd.cl/canalchilote/canalchilote/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalCosta.es",
+    "url": "https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanaldelAssemblee.ca",
+    "url": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanaldelSol.do",
+    "url": "https://5790d294af2dc.streamlock.net/sol65/sol65/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
