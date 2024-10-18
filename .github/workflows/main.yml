@@ -99,9 +99,23 @@ jobs:
 
       - name: Commit Progress and Push
         run: |
+          # Configure user identity
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      
+          # Ensure all changes are staged or stashed
           git add validated_streams.json validation_stats.json || echo "Nothing to add"
-          git commit -m "Complete validation: $(date -u)" || echo "Nothing to commit"
-          git pull --rebase --strategy-option=ours
-          git push
+          git commit -m "Progress commit: $(date -u)" || echo "Nothing to commit"
+          
+          # Stash any remaining uncommitted changes (if any)
+          git stash push -m "Temporary stash" || echo "Nothing to stash"
+      
+          # Pull with rebase and prefer local changes in conflicts
+          git pull --rebase --strategy-option=ours || echo "Rebase completed"
+      
+          # Apply stashed changes (if there was a stash)
+          git stash pop || echo "No stash to apply"
+      
+          # Push the final changes
+          git push || echo "Nothing to push"
+
