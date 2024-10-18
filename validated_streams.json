@@ -39807,5 +39807,145 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RealStories.uk",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstoriesnz-samsungnz/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RealStories.uk",
+    "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RealTV.az",
+    "url": "https://str.yodacdn.net/real/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RealTV.az",
+    "url": "https://edge02.odtv.az/o2/realtv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "ExoPlayer2/2.37"
+  },
+  {
+    "channel": "RealWild.us",
+    "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RecordNews.br",
+    "url": "https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedADvenirTV.bo",
+    "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedAmericaTV.bo",
+    "url": "https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedApple21.us",
+    "url": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedboxComedy.us",
+    "url": "https://comedy-redbox.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedboxRush.us",
+    "url": "https://rush-redbox.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedboxSpotlight.us",
+    "url": "https://spotlight-redbox.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedboxUnsolvedMysteries.us",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedBullTV.at",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedCCTV.bo",
+    "url": "https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedeBrasildeComunicacao.br",
+    "url": "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedeMais.br",
+    "url": "https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedeNGT.br",
+    "url": "https://isaocorp.cloudecast.com/ngt/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RedeQDM.br",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
