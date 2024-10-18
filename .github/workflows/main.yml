@@ -41,6 +41,10 @@ jobs:
           pip install requests
           
       - name: Validate URLs
+        env:
+          INPUT_TIMEOUT: ${{ inputs.timeout || '10' }}
+          INPUT_CHECK_ALL: ${{ inputs.check_all || 'true' }}
+          INPUT_SOURCE_URL: ${{ inputs.source_url || 'https://iptv-org.github.io/api/streams.json' }}
         run: |
           python -c "
           import json
@@ -48,11 +52,12 @@ jobs:
           import sys
           import os
           from urllib.parse import urlparse
+          from datetime import datetime
           
-          # Get inputs from GitHub Actions
-          TIMEOUT = int('${{ inputs.timeout }}')
-          CHECK_ALL = '${{ inputs.check_all }}'.lower() == 'true'
-          SOURCE_URL = '${{ inputs.source_url }}'
+          # Get inputs with defaults
+          TIMEOUT = int(os.getenv('INPUT_TIMEOUT', '10'))
+          CHECK_ALL = os.getenv('INPUT_CHECK_ALL', 'true').lower() == 'true'
+          SOURCE_URL = os.getenv('INPUT_SOURCE_URL', 'https://iptv-org.github.io/api/streams.json')
           
           def is_valid_url(url):
               if not url:
@@ -63,11 +68,9 @@ jobs:
                       return False
                   
                   if CHECK_ALL:
-                      # Full validation with actual request
                       response = requests.head(url, timeout=TIMEOUT, allow_redirects=True)
                       return response.status_code == 200
                   else:
-                      # Quick validation - just check URL format
                       return True
                       
               except Exception as e:
@@ -77,8 +80,6 @@ jobs:
           def fetch_and_validate_streams():
               try:
                   print(f'Fetching streams from {SOURCE_URL}')
-                  print(f'Timeout set to {TIMEOUT} seconds')
-                  print(f'Full validation: {CHECK_ALL}')
                   
                   response = requests.get(SOURCE_URL)
                   response.raise_for_status()
@@ -105,15 +106,20 @@ jobs:
                   with open('validated_streams.json', 'w') as f:
                       json.dump(valid_streams, f, indent=2)
                   
-                  # Create summary file
-                  with open('validation_summary.md', 'w') as f:
-                      f.write(f'# Validation Summary\n\n')
-                      f.write(f'- Source: {SOURCE_URL}\n')
-                      f.write(f'- Total streams checked: {total}\n')
-                      f.write(f'- Valid streams: {len(valid_streams)}\n')
-                      f.write(f'- Invalid streams: {total - len(valid_streams)}\n')
-                      f.write(f'- Validation mode: {"Full" if CHECK_ALL else "Quick"}\n')
-                      f.write(f'- Timeout: {TIMEOUT} seconds\n')
+                  # Create validation stats JSON
+                  stats = {
+                      'last_updated': datetime.utcnow().isoformat(),
+                      'source': SOURCE_URL,
+                      'total_streams': total,
+                      'valid_streams': len(valid_streams),
+                      'invalid_streams': total - len(valid_streams),
+                      'validation_mode': 'full' if CHECK_ALL else 'quick',
+                      'timeout_seconds': TIMEOUT,
+                      'success_rate': round((len(valid_streams) / total) * 100, 2) if total > 0 else 0
+                  }
+                  
+                  with open('validation_stats.json', 'w') as f:
+                      json.dump(stats, f, indent=2)
                   
                   if not valid_streams:
                       print('No valid streams found!')
@@ -126,16 +132,10 @@ jobs:
           fetch_and_validate_streams()
           "
           
-      - name: Update README
-        run: |
-          cat validation_summary.md > README.md
-          echo -e "\n## Latest Validation Status" >> README.md
-          echo "Last updated: $(date -u)" >> README.md
-          
       - name: Commit changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add validated_streams.json README.md
-          git commit -m "Update validated streams: $(date -u)"
+          git add validated_streams.json validation_stats.json
+          git commit -m "Update streams and validation stats: $(date -u)"
           git push
