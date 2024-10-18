@@ -2,7 +2,7 @@ name: Validate Stream URLs
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
+    - cron: '0 0 * * *'
   workflow_dispatch:
     inputs:
       timeout:
@@ -21,10 +21,33 @@ on:
         default: 'https://iptv-org.github.io/api/streams.json'
         type: string
 
+permissions:
+  contents: write
+
 jobs:
-  validate-urls:
+  test-permissions:
     runs-on: ubuntu-latest
-    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Test File Creation and Push
+        run: |
+          echo '{
+            "last_check": "'$(date -u)'",
+            "status": "initialization_test"
+          }' > validation_stats.json
+          
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add validation_stats.json
+          git commit -m "Initial validation test"
+          git push
+
+  validate-urls:
+    needs: test-permissions
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
@@ -39,8 +62,49 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
+      - name: Quick Validation (First 5 URLs)
+        env:
+          INPUT_SOURCE_URL: ${{ inputs.source_url || 'https://iptv-org.github.io/api/streams.json' }}
+        run: |
+          python -c "
+          import json
+          import requests
+          from datetime import datetime
           
-      - name: Validate URLs
+          SOURCE_URL = '${{ inputs.source_url || 'https://iptv-org.github.io/api/streams.json' }}'
+          
+          print(f'Fetching streams from {SOURCE_URL}')
+          response = requests.get(SOURCE_URL)
+          data = response.json()
+          
+          # Take first 5 URLs for quick test
+          quick_test = data[:5]
+          
+          stats = {
+              'last_updated': datetime.utcnow().isoformat(),
+              'source': SOURCE_URL,
+              'total_streams': len(data),
+              'quick_test_sample': len(quick_test),
+              'urls_sample': [stream.get('url', '') for stream in quick_test]
+          }
+          
+          with open('validation_stats.json', 'w') as f:
+              json.dump(stats, f, indent=2)
+          
+          with open('validated_streams.json', 'w') as f:
+              json.dump(quick_test, f, indent=2)
+          "
+
+      - name: Commit Quick Test Results
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add validated_streams.json validation_stats.json
+          git commit -m "Quick validation test results: $(date -u)"
+          git push
+
+      - name: Full Validation
         env:
           INPUT_TIMEOUT: ${{ inputs.timeout || '10' }}
           INPUT_CHECK_ALL: ${{ inputs.check_all || 'true' }}
@@ -54,10 +118,9 @@ jobs:
           from urllib.parse import urlparse
           from datetime import datetime
           
-          # Get inputs with defaults
           TIMEOUT = int(os.getenv('INPUT_TIMEOUT', '10'))
           CHECK_ALL = os.getenv('INPUT_CHECK_ALL', 'true').lower() == 'true'
-          SOURCE_URL = os.getenv('INPUT_SOURCE_URL', 'https://iptv-org.github.io/api/streams.json')
+          SOURCE_URL = os.getenv('INPUT_SOURCE_URL')
           
           def is_valid_url(url):
               if not url:
@@ -72,70 +135,52 @@ jobs:
                       return response.status_code == 200
                   else:
                       return True
-                      
-              except Exception as e:
-                  print(f'Error checking {url}: {str(e)}')
+              except:
                   return False
           
-          def fetch_and_validate_streams():
-              try:
-                  print(f'Fetching streams from {SOURCE_URL}')
-                  
-                  response = requests.get(SOURCE_URL)
-                  response.raise_for_status()
-                  data = response.json()
-                  
-                  valid_streams = []
-                  total = len(data)
-                  
-                  print(f'Validating {total} URLs...')
-                  
-                  for idx, stream in enumerate(data, 1):
-                      url = stream.get('url', '')
-                      print(f'Checking {idx}/{total}: {url}')
-                      
-                      if is_valid_url(url):
-                          valid_streams.append(stream)
-                          print('✓ Valid')
-                      else:
-                          print('✗ Invalid')
-                  
-                  print(f'\nFound {len(valid_streams)} valid streams out of {total}')
-                  
-                  # Save valid streams to a new JSON file
-                  with open('validated_streams.json', 'w') as f:
-                      json.dump(valid_streams, f, indent=2)
-                  
-                  # Create validation stats JSON
-                  stats = {
-                      'last_updated': datetime.utcnow().isoformat(),
-                      'source': SOURCE_URL,
-                      'total_streams': total,
-                      'valid_streams': len(valid_streams),
-                      'invalid_streams': total - len(valid_streams),
-                      'validation_mode': 'full' if CHECK_ALL else 'quick',
-                      'timeout_seconds': TIMEOUT,
-                      'success_rate': round((len(valid_streams) / total) * 100, 2) if total > 0 else 0
-                  }
-                  
-                  with open('validation_stats.json', 'w') as f:
-                      json.dump(stats, f, indent=2)
-                  
-                  if not valid_streams:
-                      print('No valid streams found!')
-                      sys.exit(1)
-                      
-              except Exception as e:
-                  print(f'Error: {str(e)}')
-                  sys.exit(1)
+          print(f'Starting full validation from {SOURCE_URL}')
+          response = requests.get(SOURCE_URL)
+          data = response.json()
           
-          fetch_and_validate_streams()
+          valid_streams = []
+          total = len(data)
+          
+          for idx, stream in enumerate(data, 1):
+              url = stream.get('url', '')
+              print(f'Checking {idx}/{total}: {url}')
+              if is_valid_url(url):
+                  valid_streams.append(stream)
+                  if idx % 50 == 0:  # Save progress every 50 items
+                      with open('validated_streams.json', 'w') as f:
+                          json.dump(valid_streams, f, indent=2)
+                      with open('validation_stats.json', 'w') as f:
+                          json.dump({
+                              'last_updated': datetime.utcnow().isoformat(),
+                              'progress': f'{idx}/{total}',
+                              'valid_so_far': len(valid_streams)
+                          }, f, indent=2)
+                      # Commit progress
+                      os.system('git add validated_streams.json validation_stats.json')
+                      os.system('git commit -m \"Update validation progress: ' + str(idx) + '/' + str(total) + '\"')
+                      os.system('git push')
+          
+          # Final save
+          with open('validated_streams.json', 'w') as f:
+              json.dump(valid_streams, f, indent=2)
+          
+          with open('validation_stats.json', 'w') as f:
+              json.dump({
+                  'last_updated': datetime.utcnow().isoformat(),
+                  'total_streams': total,
+                  'valid_streams': len(valid_streams),
+                  'validation_complete': True
+              }, f, indent=2)
           "
-          
-      - name: Commit changes
+
+      - name: Final Commit
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add validated_streams.json validation_stats.json
-          git commit -m "Update streams and validation stats: $(date -u)"
+          git commit -m "Complete validation: $(date -u)"
           git push
