@@ -105,11 +105,9 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git stash  # Save changes temporarily
-          git pull --rebase  # Pull the latest changes
-          git stash pop  # Re-apply the stashed changes
-          git add validated_streams.json validation_stats.json
-          git commit -m "Quick validation test results: $(date -u)"
+          git add validated_streams.json validation_stats.json || echo "Nothing to add"
+          git commit -m "Pre-pull commit: $(date -u)" || echo "Nothing to commit"
+          git pull --rebase --strategy-option=ours  # Keep local changes in conflict
           git push
 
       - name: Full Validation
