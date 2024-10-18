@@ -37,6 +37,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -89,7 +94,7 @@ jobs:
                       with open('validated_streams.json', 'w') as f:
                           json.dump(valid_streams, f, indent=2)
                       os.system('git add validated_streams.json')
-                      os.system('git commit -m \"Progress: ' + str(idx) + '/' + str(total) + '\"')
+                      os.system(f'git commit -m \"Progress: {idx}/{total}\"')
                       os.system('git pull --rebase --strategy-option=ours')
                       os.system('git push')
 
@@ -97,25 +102,9 @@ jobs:
               json.dump(valid_streams, f, indent=2)
           "
 
-      - name: Commit Progress and Push
+      - name: Commit and Push Final Results
         run: |
-          # Configure user identity
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-      
-          # Ensure all changes are staged or stashed
-          git add validated_streams.json validation_stats.json || echo "Nothing to add"
-          git commit -m "Progress commit: $(date -u)" || echo "Nothing to commit"
-          
-          # Stash any remaining uncommitted changes (if any)
-          git stash push -m "Temporary stash" || echo "Nothing to stash"
-      
-          # Pull with rebase and prefer local changes in conflicts
-          git pull --rebase --strategy-option=ours || echo "Rebase completed"
-      
-          # Apply stashed changes (if there was a stash)
-          git stash pop || echo "No stash to apply"
-      
-          # Push the final changes
-          git push || echo "Nothing to push"
-
+          git add validated_streams.json || true
+          git commit -m "Final update: $(date -u)" || true
+          git pull --rebase --strategy-option=ours || true
+          git push || true
