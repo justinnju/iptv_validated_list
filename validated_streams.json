@@ -39177,5 +39177,194 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RadioBirikinaTV.it",
+    "url": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioBonita1067.ec",
+    "url": "https://cloudvideo.servers10.com:8081/8154/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioCaazapaPoty981FM.py",
+    "url": "https://ssh101.bozztv.com/ssh101/caazapapotytv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Radiocanal.ar",
+    "url": "http://204.199.3.2/.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioCarnavalTV.es",
+    "url": "https://eu1.servers10.com:8081/8116/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioContact.be",
+    "url": "https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioContinu.nl",
+    "url": "https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioCuencaEstereo.ec",
+    "url": "https://eu1.servers10.com:8081/8074/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioFannJordanCityView.jo",
+    "url": "http://188.247.86.66/RadioFann/CityView1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioFannJordanControlStudio.jo",
+    "url": "http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioFannJordanStudio.jo",
+    "url": "http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioFantastica989FM.ec",
+    "url": "http://190.107.232.9:8082/livestream/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Radiofreccia.it",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioHit.ru",
+    "url": "http://lova.me/hls/hithd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioHit.ru",
+    "url": "http://lova.me/hls/hit.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioHogar.pa",
+    "url": "https://www.streaming507.net:19360/videoradiohogar/videoradiohogar.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioIbizaTV.it",
+    "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioIdeal.hn",
+    "url": "https://www.idealfm104-7.com/hls/0/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioIglesiasSardegna.it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioIslaTV.pr",
+    "url": "https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioItaliaTrendTVHD.it",
+    "url": "https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioMensajeTV.us",
+    "url": "https://eu1.servers10.com:8081/8230/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioNLTV.nl",
+    "url": "https://stream.radionl.tv/radionltv/radionltv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioNumberOne.it",
+    "url": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioOndaDigital.pe",
+    "url": "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioPiterPanTV.it",
+    "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioPuertoTV.cr",
+    "url": "https://cloudvideo.servers10.com:8081/8256/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
