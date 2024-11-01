@@ -38323,5 +38323,215 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "PursuitUP.us",
+    "url": "https://pursuitup-klowdtv.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QafTV.tr",
+    "url": "https://mn-nl.mncdn.com/qaf/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QatarTelevision2.qa",
+    "url": "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QatarTelevision.qa",
+    "url": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QausainTV.ng",
+    "url": "https://acasmedia3.acangroup.org/qausaintv/qausaintv_output/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Qazaqstan.kz",
+    "url": "https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Qazaqstan.kz",
+    "url": "https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QazSport.kz",
+    "url": "https://qazsporttv-stream.qazcdn.com/qazsporttv/qazsporttv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QelloConcertsbyStingray.ca",
+    "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QelloConcertsbyStingray.ca",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QhuboTV.hn",
+    "url": "https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QMusic.be",
+    "url": "https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Qmusic.nl",
+    "url": "https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Qostanai.kz",
+    "url": "https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QS24tv.ch",
+    "url": "https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QTTelevision.pe",
+    "url": "https://servilive.com:3753/live/qosqotimeslive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QTV1.cn",
+    "url": "http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QTV2.cn",
+    "url": "http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QTV4.cn",
+    "url": "http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QTVGambia.gm",
+    "url": "https://player.qtv.gm/hls/live.stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QuangNgaiTV.vn",
+    "url": "http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QuartoCanaleFlegreo.it",
+    "url": "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QuatroTV.ar",
+    "url": "https://stream.arcast.live/quatro/quatro/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QubTV.ro",
+    "url": "https://live.djemba.ro/live/qubtvlive/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QuocHoiTV.vn",
+    "url": "https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8",
+    "timeshift": "-2",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QuranRadio.sa",
+    "url": "https://edge.taghtia.com/sa/13.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QVC2.us",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QVC3.us",
+    "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QVC.de",
+    "url": "https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "QVC.it",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
