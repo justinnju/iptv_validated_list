@@ -49257,5 +49257,145 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TVRain.ru",
+    "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRaj.sk",
+    "url": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRegionalnaLubin.pl",
+    "url": "https://tvreg.klemit.net/regionalna/stream/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVReus.es",
+    "url": "https://eu1.servers10.com:8081/8166/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRijnmondExtra.nl",
+    "url": "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRInternational.ro",
+    "url": "https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRioGrande.br",
+    "url": "https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRioPreto.br",
+    "url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRIWorld.id",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRodopi.gr",
+    "url": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/TVRodopi.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRomana.sk",
+    "url": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRuzinov.sk",
+    "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVS.do",
+    "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSabadellValles.es",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+  },
+  {
+    "channel": "TVSafina.tj",
+    "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSandegi.br",
+    "url": "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSanJorge.co",
+    "url": "https://asucap.com/livestream/asucap_envivo.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSantaCruz.cr",
+    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSaoRaimundo.br",
+    "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSat.ro",
+    "url": "http://89.38.8.130:39443",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
