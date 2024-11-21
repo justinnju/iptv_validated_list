@@ -39310,5 +39310,187 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RomanzaPlusAfrica.ke",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RonahiTV.sy",
+    "url": "https://ronahi-tv.akamaized.net/hls/ronahi-tv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RotanaCinemaKSA.sa",
+    "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RotanaRadioJordanCityView.jo",
+    "url": "http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RotanaRadioJordanControlStudio.jo",
+    "url": "http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RotanaRadioJordanStudio.jo",
+    "url": "http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RotanaTarabJordanCityView.jo",
+    "url": "http://188.247.86.66/RadioFann/Audio32/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RotanaTarabJordanControlStudio.jo",
+    "url": "http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ROTVValencia.es",
+    "url": "https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ROVTV.za",
+    "url": "https://webstreaming.viewmedia.tv/web_012/Stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RoyaTV.jo",
+    "url": "https://royatv-live.daioncdn.net/royatv/royatv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RPlus.in",
+    "url": "https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RPLWoerden.nl",
+    "url": "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RPM.za",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RSelvaTV.pe",
+    "url": "https://live.obslivestream.com/selvatv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTA.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTAEducation.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTANews.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTASport.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTB.bf",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTBAneka.bn",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTBGo.bn",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTBSukmaindera.bn",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTCQuartaRete.it",
+    "url": "https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTCTelecalabria.it",
+    "url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTDocumentaryRussian.ru",
+    "url": "https://hls.rt.com/hls/rtdru.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
