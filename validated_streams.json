@@ -12521,5 +12521,166 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "AlNajahNews.ps",
+    "url": "https://streaming.najah.edu:8443/hls/AlNajah.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlNujabaTV.iq",
+    "url": "http://63b03f7689049.streamlock.net:1935/live/3/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlpenlandTV.ch",
+    "url": "https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlpenWelleTV.ch",
+    "url": "https://edge13.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlphaDigital.ug",
+    "url": "http://streamfi-alphadgtl1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlQaheraNews.eg",
+    "url": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlQamarTV.ae",
+    "url": "https://pull-cdnw.anystream.uk/live/d84d4809018b100059f000f600000000/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Alquran.iq",
+    "url": "https://ktvlive.online/stream/hls/ch1.m3u8",
+    "timeshift": "0",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlQuranAlKareemTV.sa",
+    "url": "https://edge.taghtia.com/sa/7.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlRayyanOldTV.qa",
+    "url": "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlRayyanTV.qa",
+    "url": "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlRiyadhRadio.sa",
+    "url": "https://edge.taghtia.com/sa/12.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlsaciasTelevision.hn",
+    "url": "https://s.emisoras.tv:8081/atv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlSaudiya.sa",
+    "url": "https://edge.taghtia.com/sa/2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlSaudiyaAlaan.sa",
+    "url": "https://edge.taghtia.com/sa/17.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlShallalTV.ae",
+    "url": "https://amg01480-alshallalfze-alshallal-ono-q0hfg.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlSharqiya.iq",
+    "url": "https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlSharqiyaMinKabla.ae",
+    "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlSharqiyaNews.iq",
+    "url": "https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AlSunnahAlNabawiyahTV.sa",
+    "url": "https://edge.taghtia.com/sa/6.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AltantoTV.do",
+    "url": "https://streaming.altantotv.domiplay.net/hls/0/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AltenaTV.nl",
+    "url": "https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AltenburgTV.de",
+    "url": "https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
