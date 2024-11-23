@@ -16756,5 +16756,89 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Canal8Sincelejo.co",
+    "url": "https://glb.bozztv.com/glb/ssh101/envivocanal8/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal8TVPlus.co",
+    "url": "https://movil.ejeserver.com/live/canal8tv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal8TVPlus.co",
+    "url": "https://video.ejeserver.com/live/canal8tv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal9.ch",
+    "url": "https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal9BioBioTelevision.cl",
+    "url": "https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal9Litoral.ar",
+    "url": "https://stream.arcast.live/ahora/ahora/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal9Resistencia.ar",
+    "url": "http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal10Cancun.mx",
+    "url": "http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal10Cancun.mx",
+    "url": "https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal11delaCosta.ar",
+    "url": "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal12Web.ar",
+    "url": "https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal13Esquipulas.gt",
+    "url": "https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
