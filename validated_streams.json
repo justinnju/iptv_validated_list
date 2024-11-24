@@ -16077,5 +16077,201 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "BusuiocTV.md",
+    "url": "https://busuioctv.iforward.eu/hls/busuioc.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Buzzr.us",
+    "url": "https://buzzr-roku-us.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Buzzr.us",
+    "url": "https://buzzr-samsungus.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Buzzr.us",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BX1.be",
+    "url": "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BXArts.us",
+    "url": "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BXCulture.us",
+    "url": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BXInform.us",
+    "url": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BXInspire.us",
+    "url": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BXOmni.us",
+    "url": "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BYUTV.us",
+    "url": "https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "C1.mn",
+    "url": "https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "C4Television.co",
+    "url": "https://eu1.servers10.com:8081/8148/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "C31Melbourne.au",
+    "url": "https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cable14Hamilton.ca",
+    "url": "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CableImagenArmstrong.ar",
+    "url": "https://stream.arcast.com.ar/casse/casse/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CableSurTV.co",
+    "url": "https://tvlatina.live:1936/8012/8012/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cadena103TV.ar",
+    "url": "http://arcast.net:1935/cadena103/cadena103/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CadenaElite.es",
+    "url": "https://cloudvideo.servers10.com:8081/8004/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CafeTradeTV.us",
+    "url": "https://cafetradehls.wns.live/hls/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CafeTV24.it",
+    "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Caillou.fr",
+    "url": "https://dhx-caillou-1-es.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Caillou.fr",
+    "url": "https://dhx-caillou-2-fr.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CaliforniaMediosTV.mx",
+    "url": "https://s5.mexside.net:1936/medios/medios/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CaliforniaMusicChannel.us",
+    "url": "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CaliforniaMusicChannel.us",
+    "url": "https://cmc-ono.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CaliforniaMusicChannel.us",
+    "url": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CaliforniaMusicChannel.us",
+    "url": "https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
