@@ -18632,5 +18632,201 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "CHCOTV.ca",
+    "url": "https://temp4.isilive.ca/live/CHCOTV/live/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Che.ru",
+    "url": "https://edge02.odtv.az/o5/chetv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "ExoPlayer2/2.37"
+  },
+  {
+    "channel": "Che.ru",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Che.ru",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer"
+  },
+  {
+    "channel": "CheddarNews.us",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cheers.de",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/611e7f224676bf00076a4d8d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b6-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d96d22d-3148-4e7e-b0e9-67b35648c724",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChefChampion.us",
+    "url": "https://bozztv.com/gusa/gusa-chefchampion/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChefRocShow.us",
+    "url": "https://bozztv.com/gusa/gusa-chefrock/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CheriflaTV.ml",
+    "url": "http://69.64.57.208/cherifla/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cherniveckiypromin.ua",
+    "url": "http://langate.tv/promin/live_720/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChileChannel.cl",
+    "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChilecitoTV.ar",
+    "url": "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChileVision.cl",
+    "url": "http://chv-m3u.chorroaeboy.repl.co",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChiloeRed25.cl",
+    "url": "https://v2.tustreaming.cl/chiloered/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChinolaTV.do",
+    "url": "https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChivacoaTVInternacional.ve",
+    "url": "https://glb.bozztv.com/glb/ssh101/1234chivacoa/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChiveTV.us",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CholutecaTV.hn",
+    "url": "https://s.emisoras.tv:8081/cholutecatv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Choppertown.us",
+    "url": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChristianYouthChannelCYC.us",
+    "url": "http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChristianYouthChannelCYC.us",
+    "url": "http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChromaTV.br",
+    "url": "https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChuzhouNewsChannel.cn",
+    "url": "http://live.cztv.cc:85/live/xwpd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChuzhouPublicChannel.cn",
+    "url": "http://live.cztv.cc:85/live/ggpd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ChuzhouScienceEducationChannel.cn",
+    "url": "http://live.cztv.cc:85/live/sjpd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CibaenaTV.do",
+    "url": "https://streamunoapp.com:3958/live/cibaenatvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CieloTV.do",
+    "url": "https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CiftciTV.tr",
+    "url": "https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
