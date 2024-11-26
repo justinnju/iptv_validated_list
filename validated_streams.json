@@ -46807,5 +46807,208 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TVBerlin.de",
+    "url": "https://live2.telvi.de/hls/tvberlin.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBirigui.br",
+    "url": "http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBoqueirao.br",
+    "url": "https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBrasilCentral.br",
+    "url": "https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBrasilOeste.br",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSAfrica.za",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSChinese.cn",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSEnglish.in",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSPortuguese.br",
+    "url": "https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSRussian.ru",
+    "url": "http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSRussian.ru",
+    "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBrno1.cz",
+    "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBrusque.br",
+    "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBSAsia.tw",
+    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBThai.th",
+    "url": "https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBUAP.mx",
+    "url": "https://tvenvivo.buap.mx/livestream/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBuzau.ro",
+    "url": "http://78.96.33.89:8080",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVC.ge",
+    "url": "http://31.146.5.178:8087/play/a009/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCa.sv",
+    "url": "https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCamara2.br",
+    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCamara.br",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCampane1.it",
+    "url": "https://eu1.servers10.com:8081/8032/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCanalSur.do",
+    "url": "https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCandides.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCandides.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCaravelas.br",
+    "url": "https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCARiB.sx",
+    "url": "https://tvc.mediacaribstream.com:5443/LiveApp/streams/678996728477322762133253.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCBenin.bj",
+    "url": "https://helga.iptv2022.com/sh/TVC_BENIN/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCBenin.bj",
+    "url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
