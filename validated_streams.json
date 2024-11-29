@@ -45869,5 +45869,376 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TropiQ997FM.pa",
+    "url": "https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TropojaTelevizion.al",
+    "url": "https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRSport.it",
+    "url": "https://livetr.teleromagna.it/mia/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRT1.tr",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRT1.tr",
+    "url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRT2.tr",
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRT4K.tr",
+    "url": "https://mn-nl.mncdn.com/blutv_trt4k/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRT.gr",
+    "url": "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTArabi.tr",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTAvaz.tr",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTBelgesel.tr",
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTCocuk.tr",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTDiyanetCocuk.tr",
+    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTEBAIlkokul.tr",
+    "url": "https://tv-e-okul00.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTEBALise.tr",
+    "url": "https://tv-e-okul02.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTEBAOrtaokul.tr",
+    "url": "https://tv-e-okul01.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTHaber.tr",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTKurdi.tr",
+    "url": "https://tv-trtkurdi.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTMuzik.tr",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRTTurk.tr",
+    "url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TrueAfrican.za",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TrueHistory.us",
+    "url": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TrustTV.ug",
+    "url": "https://panel.freedomflixtv.org:3900/hybrid/play.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TRV.ve",
+    "url": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TSC.ca",
+    "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TSC.ca",
+    "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TshwaneTV.za",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TSports7.th",
+    "url": "https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TumpisTV.pe",
+    "url": "https://servilive.com:3531/stream/play.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuMusicaHD.do",
+    "url": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurboMixRadioTV.pe",
+    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurfMovil.cl",
+    "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkHaberTV.tr",
+    "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Turkmenistan.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Turkmenistan.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch007.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenistanSport.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenistanSport.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenOwazy.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenOwazy.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TUSO.ua",
+    "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
+  },
+  {
+    "channel": "TuTv.bo",
+    "url": "https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TUTV.us",
+    "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuUniversoTV.co",
+    "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuyaLaJandaTelevision.es",
+    "url": "http://185.210.20.13:8080/0.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.bg",
+    "url": "https://tv1.cloudcdn.bg:8081/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+    "timeshift": null,
+    "http_referrer": "https://rtm-player.glueapi.io/",
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.tr",
+    "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1KG.kg",
+    "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1Oberosterreich.at",
+    "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1Samoa.ws",
+    "url": "https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV2.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV2.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+    "timeshift": null,
+    "http_referrer": "https://rtm-player.glueapi.io/",
+    "user_agent": null
   }
 ]
