@@ -43825,5 +43825,103 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TeleVigo.es",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/hls/televigo/televigo.m3u8",
+    "timeshift": null,
+    "http_referrer": "http://www.televigo.com",
+    "user_agent": null
+  },
+  {
+    "channel": "Televilla.co",
+    "url": "https://cp.panelchs.com:1936/8060/8060/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionAranda.es",
+    "url": "https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionComayaguaCanal40.hn",
+    "url": "https://mediacp.us:8081/8034/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionConsciente.es",
+    "url": "https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionCristal.bo",
+    "url": "https://srv5.elittehosting.com:3369/live/cristaltvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisiondelEste.do",
+    "url": "https://vdo2.streamgato.us:3632/live/televisiondelestelive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionMelilla.es",
+    "url": "https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionMetropolis191.hn",
+    "url": "https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisionMetropolis192.hn",
+    "url": "https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevisoradeOriente.ve",
+    "url": "https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TeleviziaMocenok.sk",
+    "url": "https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Televizija5.ba",
+    "url": "https://balkanmedia.dynu.net/hls/tv5web.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TelevizijaM.ba",
+    "url": "https://live.tv-m.net/hls/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
