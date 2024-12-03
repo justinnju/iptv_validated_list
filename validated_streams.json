@@ -45666,5 +45666,152 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TRV.ve",
+    "url": "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TSC.ca",
+    "url": "https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TSC.ca",
+    "url": "https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TshwaneTV.za",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TSports7.th",
+    "url": "https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TumpisTV.pe",
+    "url": "https://servilive.com:3531/stream/play.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuMusicaHD.do",
+    "url": "https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurboMixRadioTV.pe",
+    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurfMovil.cl",
+    "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkHaberTV.tr",
+    "url": "https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TUSO.ua",
+    "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
+  },
+  {
+    "channel": "TuTv.bo",
+    "url": "https://solo.disfrutaenlared.com:1936/tutv/tutv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TUTV.us",
+    "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuUniversoTV.co",
+    "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuyaLaJandaTelevision.es",
+    "url": "http://185.210.20.13:8080/0.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.bg",
+    "url": "https://tv1.cloudcdn.bg:8081/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+    "timeshift": null,
+    "http_referrer": "https://rtm-player.glueapi.io/",
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.tr",
+    "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1KG.kg",
+    "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1Oberosterreich.at",
+    "url": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
