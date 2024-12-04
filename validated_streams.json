@@ -24610,5 +24610,418 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "HellenicParliamentTV3.gr",
+    "url": "https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HellenicParliamentTV.gr",
+    "url": "https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HellenicParliamentTV.gr",
+    "url": "https://streamer-cache.grnet.gr/parliament/parltv.sdp/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HellsKitchenenespanol.us",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f90-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=12baeda8-54dc-41d3-965e-6fd5c80400b1",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HelwaTV.tr",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HermanasMirabalTV.do",
+    "url": "https://cnn.essastream.com:3091/live/hmtvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HesperTV.lu",
+    "url": "https://streamer20.multimedia.blue/Eltrona/HesperangeTV/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HeviziTV.hu",
+    "url": "https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Hidabroot.il",
+    "url": "https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HighNews.in",
+    "url": "https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HighTV.gr",
+    "url": "http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HilaalTV.za",
+    "url": "https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HilandoFinoTV.do",
+    "url": "https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HillsboroughTV.us",
+    "url": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HimlenTV7.fi",
+    "url": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HiperconectadosTV.cl",
+    "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HirshabelleTV.so",
+    "url": "http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HiruTV.lk",
+    "url": "https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HisGraceTV.ke",
+    "url": "https://goliveafrica.media:9998/live/6593c35f9c090/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HispaniaTV.pa",
+    "url": "https://vcp8.myplaytv.com:1936/hispaniatv/hispaniatv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HispanTV.ir",
+    "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Historia.es",
+    "url": "https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:90_HD.smil/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HitradioO3.at",
+    "url": "https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HitsChannel.co",
+    "url": "https://hvtraficonew.ddns.net/pastocnc1/cnc1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HITTV.es",
+    "url": "http://185.189.225.149/HitTV/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HiYAH.us",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HK6TV.cd",
+    "url": "https://tnt-television.com/HK6_TV/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HKTV.us",
+    "url": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLAJDTV.kr",
+    "url": "https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLAMDTV.kr",
+    "url": "http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLANDTV.kr",
+    "url": "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLAODTV.kr",
+    "url": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLATDTV.kr",
+    "url": "https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLAWDTV.kr",
+    "url": "http://andong.webcasting.co.kr/live/mbc/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLCGDTV.kr",
+    "url": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLCQDTV.kr",
+    "url": "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLCTDTV.kr",
+    "url": "https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLCXDTV.kr",
+    "url": "https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLDFDTV.kr",
+    "url": "http://1.245.74.5:1935/live/tv/.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLDGDTV.kr",
+    "url": "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLDHDTV.kr",
+    "url": "http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLDQDTV.kr",
+    "url": "http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLDRDTV.kr",
+    "url": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLKJDTV.kr",
+    "url": "http://123.140.197.22/stream/1/play.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLKUDTV.kr",
+    "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLNLive.be",
+    "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HLQSDTV.kr",
+    "url": "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HMIPROMZNEWS.us",
+    "url": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HollyWire.us",
+    "url": "https://bozztv.com/hwotta/playlist/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Hollywood.ru",
+    "url": "http://stream01.vnet.am/ParamountChannel/mono.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HolvoetTV.cl",
+    "url": "https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HomebaseTV.za",
+    "url": "https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HomeShopping.kr",
+    "url": "https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HopeChannelAfrica.us",
+    "url": "https://videodelivery.net/3dab4197cbdc656fa4a498285a3a4d67/manifest/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HopeChannelAustralia.au",
+    "url": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HopeChannelGerman.de",
+    "url": "https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HopeChannelGhana.gh",
+    "url": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HopeChannelIndia.in",
+    "url": "https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "HopeChannelInternational.us",
+    "url": "https://videodelivery.net/1eaa18c55e2558a400eab00dbde2caca/manifest/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
