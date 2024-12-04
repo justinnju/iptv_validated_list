@@ -51301,5 +51301,159 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "WWXYDT1.pr",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WWXYDT3.pr",
+    "url": "https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WXIADT1.us",
+    "url": "https://livevideo01.11alive.com/hls/live/2015499/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WXIADT1.us",
+    "url": "https://livetv-fa.tubi.video/wxia/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WXTV.tw",
+    "url": "https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WXWZLD1.pr",
+    "url": "https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WYPLTV18.us",
+    "url": "https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WZDXDT1.us",
+    "url": "https://livevideo01.rocketcitynow.com/hls/live/2011659/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WZZMDT1.us",
+    "url": "https://livevideo01.wzzm13.com/hls/live/2016280/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XEIPNTDT.mx",
+    "url": "https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XEWHTDT.mx",
+    "url": "http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHFNTDT1.mx",
+    "url": "https://live.info7.mx/info7/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHGVTDT.mx",
+    "url": "https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHMNLTDT.mx",
+    "url": "https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHPBZCTDT1.mx",
+    "url": "http://189.240.210.28:1935/envivo/puecom/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHPBZCTDT2.mx",
+    "url": "http://189.240.210.28:1935/live/setpuebla/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHSPRTDT1.mx",
+    "url": "https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": "https://www.canalcatorce.tv/",
+    "user_agent": null
+  },
+  {
+    "channel": "XHTTGTDT.mx",
+    "url": "https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XHUNESTDT.mx",
+    "url": "https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XilamTV.fr",
+    "url": "https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XinjiangTV3.cn",
+    "url": "https://st-video.xjmty.com/fs/livedit/e55abfa37af26e19/8ce9971c2177b3dd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "XITE.nl",
+    "url": "https://xite-samsung-de.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
