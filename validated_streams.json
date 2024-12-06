@@ -49159,5 +49159,152 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "UStad.nl",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "UTV.cl",
+    "url": "https://v2.tustreaming.cl/utv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "UTV.cz",
+    "url": "https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "UTV.iq",
+    "url": "https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "UUTV1.tr",
+    "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "UUTV2.tr",
+    "url": "https://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "UvagutTV.ca",
+    "url": "https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "V2BEATTV.uk",
+    "url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "V2BEATTV.uk",
+    "url": "https://de1se01.v2beat.live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VaanavilTV.in",
+    "url": "https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ValeTV.ve",
+    "url": "https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Vallevision.do",
+    "url": "https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VAMTV.cw",
+    "url": "https://cur.watch/api/get_stream/vam/streann/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VanityFair.us",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VasarhelyiTelevizio.hu",
+    "url": "https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VatiLao.la",
+    "url": "https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VBCNews.in",
+    "url": "https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VBMediaTV.mx",
+    "url": "https://stream8.mexiserver.com:19360/vbmediatv-1/vbmediatv-1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VBMediaTV.mx",
+    "url": "https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VClassicTV.cl",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VCOnline.cl",
+    "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
