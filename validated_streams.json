@@ -13333,5 +13333,222 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "ArirangTV.kr",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArirangTV.kr",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArirangTV.kr",
+    "url": "https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArirangTV.kr",
+    "url": "https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArirangUN.kr",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Aris24.ru",
+    "url": "http://serv25.vintera.tv:8081/test/aris/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AristoTV.de",
+    "url": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArkadagTV.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArkadagTV.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Arkhyz24.ru",
+    "url": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArkTV.ug",
+    "url": "https://arktelevision.org/hlslive/test/test.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ArkTV.ug",
+    "url": "https://webstreaming.viewmedia.tv/web_035/Stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Armenia1.am",
+    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "Armenia1.am",
+    "url": "http://ott-cdn.ucom.am/s1/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "Armenia2.am",
+    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ArmeniaHayKino.am",
+    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ArmeniaJanTV.am",
+    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ArmeniaPremium.am",
+    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ArmeniaSinemaks.am",
+    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ArmeniaTownTownik.am",
+    "url": "http://ott-cdn.ucom.am/s46/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ARROZTV.do",
+    "url": "https://inliveserver.com:1936/11548/11548/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Arsenal.ru",
+    "url": "http://ott-cdn.ucom.am/s68/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "ARTNTV.us",
+    "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ARTTV.gr",
+    "url": "https://til.pp.ua:3711/live/arttvgr70live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ARTV.pt",
+    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AryenTV.se",
+    "url": "https://aryen.tv/live/tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Asgabat.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Asgabat.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AsharqDiscovery.sa",
+    "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AsharqDocumentary.sa",
+    "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AsharqNews.sa",
+    "url": "https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203311941001/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
