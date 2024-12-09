@@ -30819,5 +30819,222 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "MLBNetwork.us",
+    "url": "http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MMSomaliTV.uk",
+    "url": "https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MnauTV.cz",
+    "url": "https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNB.mn",
+    "url": "https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNB.mn",
+    "url": "https://live.mnb.mn/hls/mnb.stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNBMongoliinMedee.mn",
+    "url": "https://cdn3.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNBMongoliinMedee.mn",
+    "url": "https://live.mnb.mn/hls/mn2.stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNBSport.mn",
+    "url": "https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNBSport.mn",
+    "url": "https://live.mnb.mn/hls/mnb_sport.stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNBWorld.mn",
+    "url": "https://live.mnb.mn/hls/mnb_world.stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNetHD.mk",
+    "url": "http://ares.mnet.mk/hls/mnet.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNetKids.mk",
+    "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNetSport.mk",
+    "url": "http://ares.mnet.mk/hls/mnet-sport.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MNTV.mm",
+    "url": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MOBA.rs",
+    "url": "https://muzzik-live.morescreens.com/mts-2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MOGPATV.gh",
+    "url": "https://livestream.anojed.com/ablazetv/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MohabatTV.ir",
+    "url": "http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MohabatTV.ir",
+    "url": "https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MohabatTV.us",
+    "url": "http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Moldova2.md",
+    "url": "https://v.trm.md/static/streaming-playlists/hls/937e4e0e-7174-4fb2-a299-480e68b49ecb/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MoldovaTV.md",
+    "url": "http://89.38.8.130:39435",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MolinaTV.cl",
+    "url": "http://live.mundogo.cl/mundo/Molinatv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MonaraTV.lk",
+    "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MondoKids.it",
+    "url": "https://mondotv-mondotvkids-1-it.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MONO29.th",
+    "url": "https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MonroeCountyTV.us",
+    "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MonterricoTV.pe",
+    "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MontrealGreekTV.ca",
+    "url": "http://live.greektv.ca/hls1/greektv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MoonbugKids.uk",
+    "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "MoonTV.in",
+    "url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Moovimex.mx",
+    "url": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
