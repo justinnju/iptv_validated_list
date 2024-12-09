@@ -38036,5 +38036,194 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RajawaliTV.id",
+    "url": "https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RajeenTV.ps",
+    "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakosmenteTV.hu",
+    "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakutenTVFamilyMovies.fi",
+    "url": "https://rakuten-family-12-eu.rakuten.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakutenTVFamilyMovies.fi",
+    "url": "https://rakuten-family-12-fi.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakutenTVRakutenStories.fi",
+    "url": "https://rakuten-spotlight-12-eu.rakuten.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakutenTVSpotlight.fr",
+    "url": "https://rakuten-spotlight-7-eu.rakuten.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakutenTVSpotlight.fr",
+    "url": "https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RalyTV.mx",
+    "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RamaChannel.th",
+    "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RamogiTV.ke",
+    "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RAN1.de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RanTVIsrael.il",
+    "url": "https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RapsodiaTV.ro",
+    "url": "http://92.86.248.141:8080/ram/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Rararadio.nl",
+    "url": "https://58c04fb1d143f.streamlock.net/rararadio/rararadio/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RasmeyHangMeasHDTV.kh",
+    "url": "http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RaveTV.ng",
+    "url": "https://webstreaming.viewmedia.tv/web_039/Stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RBATV.br",
+    "url": "https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "url": "http://92.50.128.180/utv/1358/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "url": "https://online-video.rbc.ru/spb/rbctv_spb.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RBKTV.ru",
+    "url": "http://online-video.rbc.ru/online2/rbctv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RBW.de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RCGTV.mx",
+    "url": "https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "url": "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RCNMas.co",
+    "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RCTV3.us",
+    "url": "https://vod.cityofrc.us/live-6/live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
