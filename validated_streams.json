@@ -22230,5 +22230,194 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Eurasia.ru",
+    "url": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuroD.tr",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuroIndieMusicChartTV.it",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://euronews-euronews-world-1-au.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-10-lu.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://euronews-euronews-spanish-2-mx.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-nl.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsEnglish.fr",
+    "url": "https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsFrench.fr",
+    "url": "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsFrench.fr",
+    "url": "https://rakuten-euronews-2-fr.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsGerman.fr",
+    "url": "https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsItalian.fr",
+    "url": "https://rakuten-euronews-3-it.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsPortuguese.fr",
+    "url": "https://rakuten-euronews-8-pt.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsSerbia.rs",
+    "url": "https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuronewsSpanish.fr",
+    "url": "https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EuroTV.it",
+    "url": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EUTV.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "EVITV.cd",
+    "url": "https://stream.berosat.live:19360/evi-tv/evi-tv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
