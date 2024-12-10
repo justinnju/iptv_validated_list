@@ -47388,5 +47388,1111 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TVMas.mx",
+    "url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMAXCBA.ar",
+    "url": "https://panel.dattalive.com/8976/8976/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMaya.gt",
+    "url": "https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMChannel.ru",
+    "url": "https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMCordoba.es",
+    "url": "http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMCordoba.es",
+    "url": "https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMElSalvador.sv",
+    "url": "http://201.247.102.189/tmp_hls/stream/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMetropole.br",
+    "url": "https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMInternacional.mz",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMittelrhein.de",
+    "url": "https://live2.telvi.de/hls/tvm_hd720.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMnewsPlus.mt",
+    "url": "http://80.79.6.221:25461/smash/public/20",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMojanaCanal4.co",
+    "url": "https://glb.bozztv.com/glb/ssh101/tvmojanacanal4/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMon.br",
+    "url": "https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMontanaCanal10.do",
+    "url": "https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVMu.id",
+    "url": "https://e.siar.us/live/tvmu.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVN14.cr",
+    "url": "http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVN24.do",
+    "url": "https://ss5.domint.net:3032/vozz_str/vozzmedia/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVN.ee",
+    "url": "https://s4.telset.ee/tvn/index.m3u8?filter.tracks=v1a1&token=tvn_token",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNBN.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNBulgaria.bg",
+    "url": "https://obs.friendshipchurch.eu/tvn/mystream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNET.lv",
+    "url": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNET.tr",
+    "url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNoe.cz",
+    "url": "https://n105.quickmedia.tv/noe-abr/noe-abr/playlist_dvr.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNoePlus.cz",
+    "url": "https://n105.quickmedia.tv/noe-2-abr/noe-2-abr/playlist_dvr.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNova.cz",
+    "url": "http://88.212.15.27/live/nova_avc_25p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNova.hr",
+    "url": "https://stream.agatin.hr:3727/live/tvnovalive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVNRSR.sk",
+    "url": "https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVO.ch",
+    "url": "https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVO.do",
+    "url": "https://cdn.mycloudstream.io/hls/live/broadcast/aa5i1jfn/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVOberfranken.de",
+    "url": "https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVOmindare.br",
+    "url": "https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVOpoja.xk",
+    "url": "http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVOrbis.mk",
+    "url": "http://tvorbis.hugo.mk:1935/live/orbistv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVOsorioNews.br",
+    "url": "https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVOstfold.no",
+    "url": "https://streamnorge.com:8088/hls/tvo.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TvoyeTVYumor.ru",
+    "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVP2.pl",
+    "url": "https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVP2.pl",
+    "url": "https://irylek.ct8.pl/stream/tvp2hd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVP3Warszawa.pl",
+    "url": "https://irylek.ct8.pl/stream/tvp3warszawahd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPABC2.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpabc2",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPABC.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpabc",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPadreCicero.br",
+    "url": "https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPanou.ht",
+    "url": "http://tvpanoucom.srfms.com:1935/tvpanoucom/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPantanalMS.br",
+    "url": "https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVParanaTurismo.br",
+    "url": "http://200.189.113.201/hls/tve.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPassoFundo.br",
+    "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPCuliacan.mx",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPDokument.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpdokument",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPenol.co",
+    "url": "https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPeru.pe",
+    "url": "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPeruInternacional.pe",
+    "url": "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPeruNoticias.pe",
+    "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPHistoria.pl",
+    "url": "https://irylek.ct8.pl/stream/tvphistoria",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPiKanal.rs",
+    "url": "https://stream.pikanal.rs/pikanal/pgm.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPInfo.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpinfo",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPirot.rs",
+    "url": "https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPKobieta.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpkobieta",
+    "timeshift": "30 minutes",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPKultura2.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpkultura2",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPKultura.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpkultura",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPlan.br",
+    "url": "https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPlata.do",
+    "url": "https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPLosMochis.mx",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPlus2.cl",
+    "url": "https://marine2.miplay.cl/tateti/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPlus.cl",
+    "url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPlusSuceava.ro",
+    "url": "http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPlusSuceava.ro",
+    "url": "http://85.186.146.34:8080",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPMazatlan.mx",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPNauka.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpnauka",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPObregon.mx",
+    "url": "https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPop.cl",
+    "url": "https://v4.tustreaming.cl/poptv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPPolonia.pl",
+    "url": "https://irylek.ct8.pl/stream/tvppolonia",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPrato.it",
+    "url": "https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPRozrywka.pl",
+    "url": "https://irylek.ct8.pl/stream/tvprozrywka",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPunjab.ca",
+    "url": "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPWilno.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpwilno",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVPWorld.pl",
+    "url": "https://irylek.ct8.pl/stream/tvpworld",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVQuiModena.it",
+    "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVR.cl",
+    "url": "https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVR.fr",
+    "url": "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRain.ru",
+    "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRaj.sk",
+    "url": "https://ottst05.flexitv.sk/2827-tv-pc.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRegionalnaLubin.pl",
+    "url": "https://tvreg.klemit.net/regionalna/stream/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVReus.es",
+    "url": "https://eu1.servers10.com:8081/8166/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRheintal.ch",
+    "url": "https://rtmp-vm.fidion.de/live/tvrt.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRijnmondExtra.nl",
+    "url": "http://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv-extra/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRInternational.ro",
+    "url": "https://tvr-tvri.cdn.zitec.com/live/tvri/main.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRioGrande.br",
+    "url": "https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRioPreto.br",
+    "url": "https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRIWorld.id",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRomana.sk",
+    "url": "http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRParlemen.id",
+    "url": "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVRuzinov.sk",
+    "url": "http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVS.do",
+    "url": "https://imagenuniversaltv.net:3741/live/tvslive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSabadellValles.es",
+    "url": "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160"
+  },
+  {
+    "channel": "TVSafina.tj",
+    "url": "https://live.teleradiocom.tj/2/3m.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSandegi.br",
+    "url": "https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSanJorge.co",
+    "url": "https://asucap.com/livestream/asucap_envivo.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSantaCruz.cr",
+    "url": "https://rtmp.info/tvsantacruz/envivo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSaoRaimundo.br",
+    "url": "https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSat.ro",
+    "url": "http://89.38.8.130:39443",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSayohi.tj",
+    "url": "https://live.teleradiocom.tj/16/3m.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSBowlingNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSBoxing.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSCipherNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSClassicMovies.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSClassicSports.us",
+    "url": "https://bozztv.com/gusa/gusa-tvs/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSComedyNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSConsumerDirect.us",
+    "url": "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSDriveInMovie.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSE.ro",
+    "url": "http://89.38.8.130:39419",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSenado.cl",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSeries.br",
+    "url": "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSFamilyChannel.us",
+    "url": "https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSFlashbackNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSHiTops.us",
+    "url": "https://bozztv.com/gusa/gusa-hitops/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSHollywoodHistory.us",
+    "url": "https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVShowOruro.bo",
+    "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSimCachoeiro.br",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSimColatina.br",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSimSaoMateus.br",
+    "url": "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSinamo.tj",
+    "url": "https://live.teleradiocom.tj/6/3m.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSistemasCuzco.pe",
+    "url": "https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSMainstreet.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSMusicNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSN.au",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSNBeauty.au",
+    "url": "https://live-tvsn.simplestreamcdn.com/live12/tvsnbeauty/bitrate1.isml/.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSNJewellery.au",
+    "url": "https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSNostalgia.us",
+    "url": "https://bozztv.com/gusa/gusa-nostalgia/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSNostalgiaMovies.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSNStyle.au",
+    "url": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSolComunidade.br",
+    "url": "http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSolidaria.ar",
+    "url": "https://canadaremar2.todostreaming.es/live/argentina-web.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSPetParadeNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSPinballNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSQuizShowNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSRetro.gt",
+    "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSSelectNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsselect/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSSports.us",
+    "url": "https://bozztv.com/gusa/gusa-tvssports/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSTalkNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-TVStalk/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSTallyHo.us",
+    "url": "https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSTavern.us",
+    "url": "https://bozztv.com/gusa/gusa-tavern/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSTelevisionNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvstn/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSTravelNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvstravel/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSTurbo.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSUD.ro",
+    "url": "https://stream.leetweb.ro/WebRTCApp/streams/118334672595255049029831.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSugd.tj",
+    "url": "https://live.teleradiocom.tj/14/3m.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSulBahia.br",
+    "url": "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSuldeMinas.br",
+    "url": "https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSurCanal9.cr",
+    "url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSVintageNetwork.us",
+    "url": "https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSWesternMovie.us",
+    "url": "https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVSWomenSports.us",
+    "url": "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVT.pl",
+    "url": "https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVT.sk",
+    "url": "https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVT.tg",
+    "url": "http://69.64.57.208/tvt/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVTabalong.id",
+    "url": "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVTarn.fr",
+    "url": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVTerceiroAnjo.br",
+    "url": "https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
