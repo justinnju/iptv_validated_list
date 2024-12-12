@@ -39366,5 +39366,180 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RTRPlanetaAsia.ru",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/63254",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTRPlanetaCIS.ru",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/63253",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTRPlanetaEurope.ru",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/4941",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTRPlanetaEurope.ru",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/63251",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTRPlanetaUSA.us",
+    "url": "https://player.smotrim.ru/iframe/stream/live_id/63250",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTRSplus.ba",
+    "url": "https://pluslive.rtrs.tv/plus/plus/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTRSTV.ba",
+    "url": "https://uzivo.rtrs.tv/tv/live/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTS1.sn",
+    "url": "http://69.64.57.208/rts1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTS2.sn",
+    "url": "http://69.64.57.208/rts2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTTRTrento.it",
+    "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTU.ec",
+    "url": "https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTV1.nl",
+    "url": "https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTV.at",
+    "url": "http://iptv.rtv-ooe.at/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVArnhemTV.nl",
+    "url": "https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVBap.rs",
+    "url": "https://53be5ef2d13aa.streamlock.net/rtvbap/uzivo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVC.ci",
+    "url": "https://cdn140m.panaccess.com/HLS/RTVC/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVChirripo.cr",
+    "url": "https://lstv.duckdns.org:449/hls/rtchirripo.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVDordrecht.nl",
+    "url": "https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVDordrecht.nl",
+    "url": "https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVDrenthe.nl",
+    "url": "https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVHB.ba",
+    "url": "https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVIslam.ch",
+    "url": "https://protokolldns.xyz/rtvislamweb554/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVLOVE.nl",
+    "url": "https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVMaastricht.nl",
+    "url": "http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTVMeppel.nl",
+    "url": "https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
