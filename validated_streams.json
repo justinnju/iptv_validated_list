@@ -27459,5 +27459,810 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "KiteVicters.in",
+    "url": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KITTV.at",
+    "url": "https://everest.pa-hosting.de:3591/live/joseflive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KJLADT16.us",
+    "url": "https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KKTV.ao",
+    "url": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KlapeiTambureTV.hr",
+    "url": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMBCDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMBCDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMBYLD5.us",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMCIDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMCIDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMGHDT1.us",
+    "url": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMIZDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMIZDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMIZDT3.us",
+    "url": "https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMOSDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMOSDT1.us",
+    "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMOVDT1.us",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KMTVDT1.us",
+    "url": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KNewsIndia.in",
+    "url": "https://knews.livebox.co.in/youtubehls/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KNLJDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KNOVCD1.us",
+    "url": "http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KNSDDT1.us",
+    "url": "https://nbculocallive.akamaized.net/hls/live/2037098/sandiego/stream1/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KNXVDT1.us",
+    "url": "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KOKIDT1.us",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Kokshe.kz",
+    "url": "https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KomaromiTelevizio.hu",
+    "url": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KOMODT1.us",
+    "url": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KOMUDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KOMUDT3.us",
+    "url": "https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KontraChannel.gr",
+    "url": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KonTumTV.vn",
+    "url": "https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KonyaOlayTV.tr",
+    "url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KoogiTV.eg",
+    "url": "https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KordiaTV.nz",
+    "url": "https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KoreanCentralTelevision.kp",
+    "url": "https://tv.nknews.org/tvdash/stream.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36"
+  },
+  {
+    "channel": "KPCBDT1.us",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KPNXDT1.us",
+    "url": "https://livevideo01.12news.com/hls/live/2015501/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KPNXDT1.us",
+    "url": "https://livetv-fa.tubi.video/kpnx/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KPXEDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KQFXLD1.us",
+    "url": "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KQSLDT1.us",
+    "url": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KralPopTV.tr",
+    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KRCADT1.us",
+    "url": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KRCGDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KRCGDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KRDODT1.us",
+    "url": "https://content.uplynk.com/channel/49fbfb5d15574052bb429eb8593e7662.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KrikTV.ru",
+    "url": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KRISDT1.us",
+    "url": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Kronehit.at",
+    "url": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KRT.tr",
+    "url": "https://krt.blutv.com/blutv_krt_live/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSASports1.sa",
+    "url": "https://edge.taghtia.com/sa/9.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSASports2.sa",
+    "url": "https://edge.taghtia.com/sa/10.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSASports3.sa",
+    "url": "https://edge.taghtia.com/sa/16.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSBYDT1.us",
+    "url": "https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSCEDT1.us",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSCEDT2.us",
+    "url": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSCEDT3.us",
+    "url": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSDKDT1.us",
+    "url": "https://livevideo01.ksdk.com/hls/live/2014965/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSDKDT1.us",
+    "url": "https://livetv-fa.tubi.video/ksdk/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSHBDT1.us",
+    "url": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSHBDT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSHBDT1.us",
+    "url": "https://livetv-fa.tubi.video/kshb2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSHBDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSHBDT3.us",
+    "url": "https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KSMODT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTCADT5.us",
+    "url": "https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTHVDT1.us",
+    "url": "https://livevideo01.thv11.com/hls/live/2017154/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTK.kz",
+    "url": "http://89.218.30.37/ktklive/live.hq/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTNVDT1.us",
+    "url": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTO.fr",
+    "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTOP.us",
+    "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTRKDT1.us",
+    "url": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTV1.kw",
+    "url": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTV2.kw",
+    "url": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTV.at",
+    "url": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTV.kr",
+    "url": "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVAlQurain.kw",
+    "url": "https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVArabe.kw",
+    "url": "https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVBDT1.us",
+    "url": "https://livevideo01.ktvb.com/hls/live/2014542/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVEthraa.kw",
+    "url": "https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVKhallikBilbait.kw",
+    "url": "https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVODT1.us",
+    "url": "https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVODT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVODT3.us",
+    "url": "https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVSport.kw",
+    "url": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KTVSportPlus.kw",
+    "url": "https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KukhnyaTV.ru",
+    "url": "http://stream01.vnet.am/KukhnyaTv/mono.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KulturMD.de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KUONDT1.us",
+    "url": "https://kuondt.lls.pbs.org/out/v1/91d8b5ffc5c1453c8a621508a07749a6/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KurajTV.ru",
+    "url": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KurdChannel.iq",
+    "url": "https://kurd-channel.ikoflix.com/hls/stream_2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Kurdistan24.iq",
+    "url": "https://d1x82nydcxndze.cloudfront.net/live/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KurdistanTV.iq",
+    "url": "https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Kurdsat.iq",
+    "url": "https://kurdsat.akamaized.net/hls/stream_0.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KuriakosCine.pt",
+    "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KuriakosKids.pt",
+    "url": "https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KuriakosMusic.pt",
+    "url": "http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KuriakosTV.pt",
+    "url": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KUSADT1.us",
+    "url": "https://livevideo01.9news.com/hls/live/2014548/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KUSADT1.us",
+    "url": "https://livetv-fa.tubi.video/kusa/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Kutonen.fi",
+    "url": "https://live-fi.tvkaista.net/kutonen/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KVCRDT2.us",
+    "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8",
+    "timeshift": null,
+    "http_referrer": "https://fnx.org/",
+    "user_agent": null
+  },
+  {
+    "channel": "KVUEDT1.us",
+    "url": "https://livevideo01.kvue.com/hls/live/2016282/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KVVBLD1.us",
+    "url": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KWCHDT1.us",
+    "url": "https://d2jni005khp8n7.cloudfront.net/out/gray-kwchwx-rtmp-v3/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KWTVDT1.us",
+    "url": "https://live.field59.com/kwtv/kwtv1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KXTVDT1.us",
+    "url": "https://livevideo01.abc10.com/hls/live/2014547/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KXVADT1.us",
+    "url": "https://livevideo01.myfoxzone.com/hls/live/2017381/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KXXVDT1.us",
+    "url": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KYOUDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KYOUDT2.us",
+    "url": "https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KYOUDT4.us",
+    "url": "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KYOUDT5.us",
+    "url": "https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KYTXDT1.us",
+    "url": "https://livevideo01.cbs19.tv/hls/live/2017377/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KZTVDT1.us",
+    "url": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
