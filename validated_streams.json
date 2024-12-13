@@ -16266,5 +16266,187 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Canal3TVBiar.es",
+    "url": "https://avantstreaming.es/hls/canal3.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4.sv",
+    "url": "http://45.5.116.178:8000/play/a03p/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4.sv",
+    "url": "http://45.5.116.178:8000/play/a00g/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4Catalunya.es",
+    "url": "https://limited35.todostreaming.es/live/mitjans-livestream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4Esquel.ar",
+    "url": "https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4Mallorca.es",
+    "url": "https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4ManchaCentro.es",
+    "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4Posadas.ar",
+    "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4RD.do",
+    "url": "https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal4SanJuan.ar",
+    "url": "https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal5.mx",
+    "url": "http://181.78.105.146:2000/play/a038/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal5DelPueblo.ar",
+    "url": "https://stmv1.cnarlatam.com/canal5pueblo/canal5pueblo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal5PicoTruncado.ar",
+    "url": "https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal5SantaFe.ar",
+    "url": "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal6.cr",
+    "url": "https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal6.sv",
+    "url": "https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal6MardelPlata.ar",
+    "url": "https://panel.dattalive.com/8166/8166/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal6Moreno.ar",
+    "url": "https://stream.arcast.com.ar/canal6moreno/canal6moreno/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal6Posadas.ar",
+    "url": "https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal7Jujuy.ar",
+    "url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal7Neuquen.ar",
+    "url": "https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal7Salta.ar",
+    "url": "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal7TeleValencia.es",
+    "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal7TV.ar",
+    "url": "https://stream.arcast.com.ar/envivo/castv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal8.cr",
+    "url": "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canal8Catacaos.pe",
+    "url": "https://live.obslivestream.com/canal8/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
