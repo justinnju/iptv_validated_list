@@ -39051,5 +39051,124 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RPLWoerden.nl",
+    "url": "https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RPM.za",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RSelvaTV.pe",
+    "url": "https://live.obslivestream.com/selvatv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTA.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTAEducation.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTANews.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTASport.af",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTB.bf",
+    "url": "https://edge20.vedge.infomaniak.com/livecast/ik:rtblive1_8/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTBAneka.bn",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTBGo.bn",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTBSukmaindera.bn",
+    "url": "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTCTelecalabria.it",
+    "url": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTDocumentaryRussian.ru",
+    "url": "https://hls.rt.com/hls/rtdru.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTDocumentaryRussian.ru",
+    "url": "https://streaming.skynetconnect.online/live/554.m3u8",
+    "timeshift": null,
+    "http_referrer": "https://televizor24tochka.ru/",
+    "user_agent": null
+  },
+  {
+    "channel": "RTDocumentaryRussian.ru",
+    "url": "https://streaming.televizor-24-tochka.ru/live/554.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTHKTV33.hk",
+    "url": "https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTHKTV34.hk",
+    "url": "https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
