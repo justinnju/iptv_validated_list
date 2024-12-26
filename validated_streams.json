@@ -14460,5 +14460,33 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "BBCPersian.uk",
+    "url": "https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BBCTorontoGaundaPunjab.ca",
+    "url": "http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BBCTravel.de",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60e4519e6873180007d3cddb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5694-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c128a45-6314-4183-a002-254731ea91a6",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BBCTwo.uk",
+    "url": "https://d20opqftbkv2z0.cloudfront.net/live13/bbctwo/bitrate1-clear.isml/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
