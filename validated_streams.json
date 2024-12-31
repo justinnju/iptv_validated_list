@@ -11247,5 +11247,201 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "AfghanNobelTV.ca",
+    "url": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AFNTV.ir",
+    "url": "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfortunadasTV.es",
+    "url": "https://cloudvideo.servers10.com:8081/8108/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Africa24.fr",
+    "url": "https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Africa24English.fr",
+    "url": "https://edge17.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricableTV.ml",
+    "url": "http://69.64.57.208/africable/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsEnglish.fr",
+    "url": "https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsEnglish.fr",
+    "url": "https://rakuten-africanews-1-fi.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsEnglish.fr",
+    "url": "https://rakuten-africanews-1-ie.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsEnglish.fr",
+    "url": "https://rakuten-africanews-1-no.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsEnglish.fr",
+    "url": "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsFrench.fr",
+    "url": "https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricanewsFrench.fr",
+    "url": "https://rakuten-africanews-2-lu.samsung.wurl.tv/manifest/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricaTV2.tz",
+    "url": "http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfricaTV3.ng",
+    "url": "http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfriwoodBlockbuster.za",
+    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfrobeatTVEntertainment.uk",
+    "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfrocultureTV.ci",
+    "url": "https://helga.iptv2022.com/sh/Afroculture/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfroLandTV.us",
+    "url": "https://alt-al.otteravision.com/alt/al/al.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AfroSportNigeria.ng",
+    "url": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AFVFamily.us",
+    "url": "https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AFVFamily.us",
+    "url": "https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Agenda56TV.do",
+    "url": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AghaniAghaniTV.lb",
+    "url": "https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AghapyKids.us",
+    "url": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AghapyTV.eg",
+    "url": "https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTV.bg",
+    "url": "https://restr2.bgtv.bg/agro/hls/agro.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "AgroTV.pe",
+    "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
