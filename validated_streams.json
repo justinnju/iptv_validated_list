@@ -16749,5 +16749,180 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Canale7.it",
+    "url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canale7.it",
+    "url": "http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canale8.it",
+    "url": "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Canale8.it",
+    "url": "http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalE.ar",
+    "url": "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalEducacao.br",
+    "url": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalExtremadura.es",
+    "url": "https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalGov.br",
+    "url": "https://canalgov-stream.ebc.com.br/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalInstitucional.co",
+    "url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalIPe.pe",
+    "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalISB.cl",
+    "url": "https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMacau.mo",
+    "url": "https://live3.tdm.com.mo/ch2/ch2.live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMalagaRTV.es",
+    "url": "https://canalmalaga-tv-live.flumotion.com/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMasTelevision.co",
+    "url": "https://movil.ejeserver.com/live/teledoradahd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMasTelevision.co",
+    "url": "https://video.ejeserver.com/live/teledoradahd.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMetropolitanodeNoticias.br",
+    "url": "https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMotor.no",
+    "url": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMotor.no",
+    "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalMultivision.do",
+    "url": "https://fl1002.bozztv.com/ssh101/canalmulti24/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalNubehTV.ve",
+    "url": "https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalOchoTV.mx",
+    "url": "https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalOracionConSon.co",
+    "url": "https://canal.mediaserver.com.co/live/oracionconson.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalParlamento.es",
+    "url": "https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalParlamentodelCongresodeJalisco.mx",
+    "url": "https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CanalPlusSport1.cz",
+    "url": "http://78.130.250.2:8023/play/a02v/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
