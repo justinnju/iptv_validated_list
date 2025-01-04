@@ -4205,5 +4205,187 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://live.wjyanghu.com/live/CH2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://222.179.155.21:1935/ch2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://222.179.155.21:1935/ch1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://222.179.155.21:1935/ch0.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://live.lyg1.com/ggpd/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://live.lyg1.com/zhpd/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ct-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://stream2.jlntv.cn/baicheng1/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://stream2.jlntv.cn/baishan1/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "https://live.sjsrm.com/bjsjs/sd/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://live.zohi.tv/video/s10001-fztv-1/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "",
+    "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
