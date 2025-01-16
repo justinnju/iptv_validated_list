@@ -45981,5 +45981,152 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TVBrasilOeste.br",
+    "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBRICSAfrica.za",
+    "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBrno1.cz",
+    "url": "https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBrusque.br",
+    "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBSAsia.tw",
+    "url": "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBThai.th",
+    "url": "https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBUAP.mx",
+    "url": "https://tvenvivo.buap.mx/livestream/stream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVBuzau.ro",
+    "url": "http://78.96.33.89:8080",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVC.ge",
+    "url": "http://31.146.5.178:8087/play/a009/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCamara2.br",
+    "url": "https://stream3.camara.gov.br/tv2/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCamara.br",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCampane1.it",
+    "url": "https://eu1.servers10.com:8081/8032/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCanalSur.do",
+    "url": "https://ss9.domint.net:3030/sur_str/surtv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCandides.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCandides.br",
+    "url": "https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCBenin.bj",
+    "url": "https://helga.iptv2022.com/sh/TVC_BENIN/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCentr.ru",
+    "url": "http://ott-cdn.ucom.am/s54/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "TVCentr.ru",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCG1.me",
+    "url": "http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCG2.me",
+    "url": "http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TVCGMNE.me",
+    "url": "http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
