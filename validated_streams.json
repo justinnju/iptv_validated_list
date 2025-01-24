@@ -37560,5 +37560,152 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "RadioYguazuTV.ar",
+    "url": "https://live.enhdtv.com:8081/radioiguazutv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioyTelevisionBudokan.mx",
+    "url": "https://cp.panelchs.com:1936/8016/8016/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioyTelevisionMarti.us",
+    "url": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RadioZeta.it",
+    "url": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Rai1.it",
+    "url": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Rai3.it",
+    "url": "https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Rai3.it",
+    "url": "https://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Rai3.it",
+    "url": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RaiGulp.it",
+    "url": "http://188.60.179.180:8000/play/xxRaiGulpxx",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RaiMovie.it",
+    "url": "http://188.60.179.180:8000/play/xxRaiMOviexx",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RainbowSquad.us",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6277-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76f1eaf6-33c5-447a-87c9-414df640b519",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RaiPremium.it",
+    "url": "http://188.60.179.180:8000/play/a0oy",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RaiYoyo.it",
+    "url": "http://188.60.179.180:8000/play/xxRaiYoyo",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RajawaliTV.id",
+    "url": "https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RajeenTV.ps",
+    "url": "https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RakosmenteTV.hu",
+    "url": "http://rakosmentetv.hu:8080/hls/rmtv.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RalyTV.mx",
+    "url": "https://cloudvideo.servers10.com:8081/8072/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RamaChannel.th",
+    "url": "https://ramach.ddns.net/live/ramalive/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RamogiTV.ke",
+    "url": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RAN1.de",
+    "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RanTVIsrael.il",
+    "url": "https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
