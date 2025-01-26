@@ -44609,5 +44609,173 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "TurkmenistanSport.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch004.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenistanSport.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch004.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenOwazy.tm",
+    "url": "https://alpha.tv.online.tm/hls/ch005.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TurkmenOwazy.tm",
+    "url": "https://alpha.tv.online.tm/legacyhls/ch005.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TUSO.ua",
+    "url": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0"
+  },
+  {
+    "channel": "TUTV.us",
+    "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuUniversoTV.co",
+    "url": "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TuyaLaJandaTelevision.es",
+    "url": "http://185.210.20.13:8080/0.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+    "timeshift": null,
+    "http_referrer": "https://rtm-player.glueapi.io/",
+    "user_agent": null
+  },
+  {
+    "channel": "TV1.tr",
+    "url": "https://edge1.socialsmart.tv/tv1/bant1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1KG.kg",
+    "url": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV1Samoa.ws",
+    "url": "https://anystrument.com:5443/LiveApp/streams/DfywyaY3DcWf1709948634332.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV2.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV2.my",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+    "timeshift": null,
+    "http_referrer": "https://rtm-player.glueapi.io/",
+    "user_agent": null
+  },
+  {
+    "channel": "TV2.tg",
+    "url": "https://helga.iptv2022.com/sh/TV2/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV2Bornholm.dk",
+    "url": "https://cdn-akamai-live.tv2bornholm.dk/stream/live/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV3.my",
+    "url": "https://tonton-live-switch-ssar.akamaized.net/stream-tv3/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV3.ru",
+    "url": "http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV3.ru",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer"
+  },
+  {
+    "channel": "TV4.tr",
+    "url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV4.us",
+    "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV5.fi",
+    "url": "https://live-fi.tvkaista.net/tv5/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "TV5.mn",
+    "url": "https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
