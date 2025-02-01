@@ -22468,5 +22468,327 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "FoxSports.us",
+    "url": "https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "url": "https://247wlive.foxweather.com/stream/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "url": "https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "FoxWeather.us",
+    "url": "https://foxweather-xumo.amagi.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France2.fr",
+    "url": "http://69.64.57.208/france2/mono.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France2.fr",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France3.fr",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France4.fr",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France5.fr",
+    "url": "http://69.64.57.208/france5/mono.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France5.fr",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Arabic.fr",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24English.fr",
+    "url": "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24Espanol.fr",
+    "url": "https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_900.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_2300.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "France24French.fr",
+    "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Francophonie24.fr",
+    "url": "http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Francophonie24.fr",
+    "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
