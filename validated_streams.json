@@ -39723,5 +39723,250 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "PolsatGames.pl",
+    "url": "http://178.219.128.68:64889/POLSGAME",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatGames.pl",
+    "url": "http://109.233.89.166/Polsat_Games/mono.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatJimJam.pl",
+    "url": "http://185.236.229.62:9981/play/a07e",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatJimJam.pl",
+    "url": "http://109.233.89.166/Polsat_JimJam/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatMusic.pl",
+    "url": "http://185.236.229.62:9981/play/a02b",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatMusic.pl",
+    "url": "http://109.233.89.170/Polsat_Music_HD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatNews2.pl",
+    "url": "http://178.219.128.68:64889/POLSNEWS2",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatNews2.pl",
+    "url": "http://109.233.89.166/Polsat_News_2/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatNews.pl",
+    "url": "http://178.219.128.68:64888/POLSNEWSHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatNews.pl",
+    "url": "http://109.233.89.166/Polsat_News_HD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatNewsPolityka.pl",
+    "url": "http://178.219.128.68:64888/SUPEHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatNewsPolityka.pl",
+    "url": "http://109.233.89.166/Polsat_News_Polityka/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatPlay.pl",
+    "url": "http://178.219.128.68:64888/POLSPLAYHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatPlay.pl",
+    "url": "http://109.233.89.166/Polsat_Play_HD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatRodzina.pl",
+    "url": "http://178.219.128.68:64889/POLSRODZHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSeriale.pl",
+    "url": "http://178.219.128.68:64888/POLSROMA",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSeriale.pl",
+    "url": "http://109.233.89.166/Polsat_Seriale_HD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSport.pl",
+    "url": "http://178.219.128.68:64889/POLSSPORHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSportExtra.pl",
+    "url": "http://178.219.128.68:64889/POLSSPOREXTRHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSportFight.pl",
+    "url": "http://178.219.128.68:64888/POLSSPORFIGHHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSportFight.pl",
+    "url": "http://178.219.128.68:64889/POLSSPORFIGHHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatSportNews.pl",
+    "url": "http://178.219.128.68:64889/POLSSPORNEWSHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatViasatExplore.pl",
+    "url": "http://178.219.128.68:64888/POLSVIASEXPLHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatViasatExplore.pl",
+    "url": "http://178.219.128.68:64889/POLSVIASEXPLHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatViasatHistory.pl",
+    "url": "http://178.219.128.68:64888/POLSVIASHISTHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatViasatHistory.pl",
+    "url": "http://178.219.128.68:64889/POLSVIASHISTHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatViasatNature.pl",
+    "url": "http://178.219.128.68:64888/POLSVIASNATUHD",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PolsatViasatNature.pl",
+    "url": "http://185.236.229.62:9981/play/a06g",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Pop.uk",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01753-narrativeentert-popkids-lggb/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Pop.uk",
+    "url": "https://jmp2.uk/sam-GBBC430000128.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "POPSTAR.rs",
+    "url": "https://muzzik-live.morescreens.com/mts-3/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PopstarTV.us",
+    "url": "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PopularTVCantabria.es",
+    "url": "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PopularTVMurcia.es",
+    "url": "https://cloud.fastchannel.es/mic/manifiest/populartvrm.m3u8",
+    "timeshift": null,
+    "http_referrer": "https://player.streamingconnect.com/",
+    "user_agent": null
+  },
+  {
+    "channel": "POPWorldTV.es",
+    "url": "https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
