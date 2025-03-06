@@ -21341,5 +21341,187 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "CSPAN2.us",
+    "url": "https://tvpass.org/live/CSPAN2/hd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CSPAN2.us",
+    "url": "https://tvpass.org/live/CSPAN2/sd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CSPAN.us",
+    "url": "http://fl2.moveonjoy.com/C-SPAN/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CT1.cz",
+    "url": "http://88.212.15.19/live/test_ct1_25p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CT2.cz",
+    "url": "http://88.212.15.19/live/test_ct2_25p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CT24.cz",
+    "url": "http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTDecko.cz",
+    "url": "http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTiNews.tw",
+    "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTNCourtFeed.us",
+    "url": "http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTNLiveStream2.us",
+    "url": "http://video.ct-n.com/live/web2stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTNTVConneticut.us",
+    "url": "http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTSport.cz",
+    "url": "http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTV9.kh",
+    "url": "https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTV.co",
+    "url": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTV.us",
+    "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CTVInternacional.hn",
+    "url": "https://mediacp.us:8081/ctvhn/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cuatro.es",
+    "url": "http://185.189.225.150:85/CuatroHD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cula4.ie",
+    "url": "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Cultura24.pe",
+    "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CulturaPara.br",
+    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CupertinoCityChannel.us",
+    "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CuriosityStream.us",
+    "url": "http://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CuriquingueTV.ec",
+    "url": "https://video2.lhdserver.es/pjtv/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CusanoItaliaTV.it",
+    "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CVCEducation.us",
+    "url": "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CVCGovernment.us",
+    "url": "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
   }
 ]
