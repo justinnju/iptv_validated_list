@@ -57309,6 +57309,13 @@
     "user_agent": null
   },
   {
+    "channel": "YerkirMedia.am",
+    "url": "http://ott-cdn.ucom.am/s7/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
     "channel": "YES.mv",
     "url": "https://customer-ujex1meek7koqd9x.cloudflarestream.com/4f0b316cdb0fbb7f8ca93860ed11d38b/manifest/video.m3u8",
     "timeshift": null,
