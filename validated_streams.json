@@ -30009,20 +30009,6 @@
     "user_agent": null
   },
   {
-    "channel": "KFMBDT2.us",
-    "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "KFMBDT2.us",
-    "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "KFONTV.us",
     "url": "https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8",
     "timeshift": null,
@@ -31670,13 +31656,6 @@
   {
     "channel": "LaVozdeMaria.do",
     "url": "https://627bb251f23c7.streamlock.net:444/LaVozdeMaria/live/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "LaVozdeMaria.do",
-    "url": "https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
