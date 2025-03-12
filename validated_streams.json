@@ -42287,13 +42287,6 @@
     "user_agent": null
   },
   {
-    "channel": "RaiItaliaAsia.it",
-    "url": "http://210.210.155.37/x6bnqe/s/s63/index2.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "RainbowSquad.us",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb028c2e6a0c00075275a5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6277-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=76f1eaf6-33c5-447a-87c9-414df640b519",
     "timeshift": null,
@@ -43947,6 +43940,13 @@
   },
   {
     "channel": "Russia1.ru",
+    "url": "http://ott-cdn.ucom.am/s15/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+  },
+  {
+    "channel": "Russia1.ru",
     "url": "http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
@@ -43958,6 +43958,13 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Russia24.ru",
+    "url": "http://ott-cdn.ucom.am/s21/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
   },
   {
     "channel": "Russia24.ru",
@@ -44091,6 +44098,13 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Ryzhiy.ru",
+    "url": "http://ott-cdn.ucom.am/s57/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
   },
   {
     "channel": "S1.ru",
