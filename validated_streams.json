@@ -267,6 +267,20 @@
   },
   {
     "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca3-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=172fcc6d-73c3-48c9-86a8-04885a2af742",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca5-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=69be0114-52dc-4eed-b6e7-c907f1b51e64",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d63b1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1976749-dc67-441a-aa5b-1e7f21edcbf9",
     "timeshift": null,
     "http_referrer": null,
@@ -2969,6 +2983,20 @@
   },
   {
     "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a562-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8196e267-fdcf-4f05-bb8e-8f1ec0e504ea",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a564-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7df37b22-f6f1-45dd-9620-5945bfeea73a",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cebd7302478b00073a6b71/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83a566-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ee4d2e15-28c7-48f8-873c-62c0e7583103",
     "timeshift": null,
     "http_referrer": null,
@@ -4292,7 +4320,7 @@
   },
   {
     "channel": null,
-    "url": "https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "url": "https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -4300,13 +4328,6 @@
   {
     "channel": null,
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": null,
-    "url": "https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -4860,6 +4881,20 @@
   {
     "channel": null,
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63905e85da3fda00080232e4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d4-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9bcf42bc-a631-4843-98b6-e0cbdb971d55",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9e449819-d189-42df-8e7a-17486c6d68aa",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d7-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0334507c-ce21-4017-8651-7c2bf9912782",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -8177,7 +8212,7 @@
   },
   {
     "channel": null,
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1084",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=4312",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -8569,13 +8604,6 @@
   },
   {
     "channel": null,
-    "url": "https://amg01655-thewashingtonpo-washingtonpost-klowdtv-fxhac.amagi.tv/playlist/amg01655-thewashingtonpo-washingtonpost-klowdtv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": null,
     "url": "http://98.186.28.168/live-3/live/live.m3u8",
     "timeshift": null,
     "http_referrer": null,
@@ -8801,6 +8829,13 @@
   {
     "channel": null,
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651f239d9c7aeb0008286823/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c42-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e4fa373b-d26b-4a30-85f4-ef286a12ac31",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": null,
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c287c43-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a1e2a534-715c-495d-a4f3-2d56a6177548",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -13966,13 +14001,6 @@
   },
   {
     "channel": "AmediaPremium.ru",
-    "url": "http://ott-cdn.ucom.am/s64/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "AmediaPremium.ru",
     "url": "http://stream01.vnet.am/AmediaPremium/mono.m3u8",
     "timeshift": null,
     "http_referrer": null,
@@ -14721,69 +14749,6 @@
     "user_agent": null
   },
   {
-    "channel": "Armenia1.am",
-    "url": "http://ott-cdn.ucom.am/s4/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "Armenia1.am",
-    "url": "http://ott-cdn.ucom.am/s1/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "Armenia2.am",
-    "url": "http://ott-cdn.ucom.am/s2/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaHayKino.am",
-    "url": "http://ott-cdn.ucom.am/s22/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaJanTV.am",
-    "url": "http://ott-cdn.ucom.am/s42/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaPremium.am",
-    "url": "http://ott-cdn.ucom.am/s83/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaSinemaks.am",
-    "url": "http://ott-cdn.ucom.am/s66/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaTownTownik.am",
-    "url": "http://ott-cdn.ucom.am/s46/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "Arsenal.ru",
-    "url": "http://ott-cdn.ucom.am/s68/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
     "channel": "ARTNTV.us",
     "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
     "timeshift": null,
@@ -15050,13 +15015,6 @@
     "user_agent": null
   },
   {
-    "channel": "AtamekenBusiness.kz",
-    "url": "http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "AtfalMawahebTV.sa",
     "url": "https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8",
     "timeshift": null,
@@ -15209,27 +15167,6 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
-  },
-  {
-    "channel": "ATVHayTV.am",
-    "url": "http://ott-cdn.ucom.am/s73/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ATVKhaghaliqTV.am",
-    "url": "http://ott-cdn.ucom.am/s74/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ATVKinoman.am",
-    "url": "http://ott-cdn.ucom.am/s94/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
   },
   {
     "channel": "ATVKinoman.am",
@@ -15986,13 +15923,6 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
-  },
-  {
-    "channel": "BBCNewsEurope.uk",
-    "url": "http://ott-cdn.ucom.am/s24/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
   },
   {
     "channel": "BBCNewsNorthAmerica.uk",
@@ -17425,6 +17355,13 @@
   {
     "channel": "BTVNews.kh",
     "url": "https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "BubbleGuppies.de",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9f332f4-cf88-4dfa-b110-d5810536c437",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -19642,6 +19579,13 @@
     "user_agent": null
   },
   {
+    "channel": "CCTV4Asia.cn",
+    "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "CCTV.us",
     "url": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8",
     "timeshift": null,
@@ -21686,6 +21630,13 @@
     "user_agent": null
   },
   {
+    "channel": "CTV9.kh",
+    "url": "https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "CTV.co",
     "url": "https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8",
     "timeshift": null,
@@ -22904,6 +22855,13 @@
     "user_agent": null
   },
   {
+    "channel": "DragonTVInternational.cn",
+    "url": "http://210.210.155.37/x6bnqe/s/s29/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "DreamTurk.tr",
     "url": "http://185.234.111.229:8000/play/a01v",
     "timeshift": null,
@@ -23081,13 +23039,6 @@
   {
     "channel": "DukhNivaran.ca",
     "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "DumaTV.ru",
-    "url": "https://dumatv.iptv2022.com/index.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -24668,6 +24619,20 @@
     "user_agent": null
   },
   {
+    "channel": "FarosTV2.gr",
+    "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "FarosTV.gr",
+    "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "Farovision.do",
     "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
     "timeshift": null,
@@ -24803,6 +24768,13 @@
   {
     "channel": "FGTV.kr",
     "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Fibwi.es",
+    "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -27475,13 +27447,6 @@
     "user_agent": null
   },
   {
-    "channel": "HLKUDTV.kr",
-    "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "HLNLive.be",
     "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
     "timeshift": null,
@@ -27946,13 +27911,6 @@
   {
     "channel": "IciRDI.ca",
     "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ICTV.us",
-    "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -28896,27 +28854,6 @@
     "user_agent": null
   },
   {
-    "channel": "JBS.us",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "JBS.us",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "JBS.us",
-    "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "JC1.cz",
     "url": "https://stream.jc1.cz/hls/jc1.m3u8",
     "timeshift": null,
@@ -29213,6 +29150,13 @@
   {
     "channel": "KabbalaTV.ru",
     "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KABCDT1.us",
+    "url": "https://tvpass.org/live/abc-kabc-los-angeles-ca/hd",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -30060,6 +30004,20 @@
   {
     "channel": "KFMBDT1.us",
     "url": "https://livevideo01.cbs8.com/hls/live/2014967/elvs/live.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KFMBDT2.us",
+    "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/hd",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "KFMBDT2.us",
+    "url": "https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -31717,6 +31675,13 @@
     "user_agent": null
   },
   {
+    "channel": "LaVozdeMaria.do",
+    "url": "https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "LaVozGruperaTV.mx",
     "url": "https://cloudvideo.servers10.com:8081/8128/index.m3u8",
     "timeshift": null,
@@ -32062,13 +32027,6 @@
   {
     "channel": "Limelight.za",
     "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/limelight/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "LimonTV.cr",
-    "url": "http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -33689,6 +33647,20 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "MezokovesdiTelevizio.hu",
+    "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Mezzo.fr",
+    "url": "http://ott-cdn.ucom.am/s35/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
   },
   {
     "channel": "MGMPlusEast.us",
@@ -41356,6 +41328,55 @@
     "user_agent": null
   },
   {
+    "channel": "PTCChakde.in",
+    "url": "https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PTCDholTV.in",
+    "url": "https://streaming.ptcplay.com/ptcdholtvINOne/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PTCMusic.in",
+    "url": "https://streaming.ptcplay.com/ptcMusicINOne/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PTCNews.in",
+    "url": "https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PTCPunjabi.in",
+    "url": "https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PTCPunjabiGold.in",
+    "url": "https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "PTCSimran.in",
+    "url": "https://streaming.ptcplay.com/ptcSimranINOne/smil:Live.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "PTLTVNetwork.us",
     "url": "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8",
     "timeshift": null,
@@ -44899,14 +44920,21 @@
   },
   {
     "channel": "ShansonTV.ru",
-    "url": "http://ott-cdn.ucom.am/s43/index.m3u8",
+    "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
+    "user_agent": null
   },
   {
     "channel": "ShansonTV.ru",
-    "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8",
+    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ShansonTV.ru",
+    "url": "https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -44994,13 +45022,6 @@
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
-  },
-  {
-    "channel": "ShoghakatTV.am",
-    "url": "http://ott-cdn.ucom.am/s13/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
   },
   {
     "channel": "ShopChannel.jp",
@@ -45479,6 +45500,13 @@
     "user_agent": null
   },
   {
+    "channel": "SmileTV.gr",
+    "url": "https://s1.cystream.net/live/smile/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "SmithsonianChannelEast.us",
     "url": "http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
     "timeshift": null,
@@ -46137,659 +46165,323 @@
     "user_agent": null
   },
   {
-    "channel": "SmithsonianChannelEast.us",
-    "url": "http://fl2.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SmithsonianChannelSelects.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb094-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=984e1d1d-6d7f-4f0b-98a5-825ccb67a891",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SNTVDaljir.so",
-    "url": "https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Sochi24.ru",
-    "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SohailTV.ca",
-    "url": "https://iptv.sohailtv.com/sohail/playlist/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SOL2.nl",
-    "url": "https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SolidariaTV.es",
-    "url": "https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SoloBailalo.cl",
-    "url": "https://5ff3d9babae13.streamlock.net/8000/8000/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SoloBailalo.cl",
-    "url": "https://5ff3d9babae13.streamlock.net/8016/8016/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SolovyovLive.ru",
-    "url": "https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SolTV.gq",
-    "url": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SolTV.gt",
-    "url": "https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SolTV.pe",
-    "url": "https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SomaliNationalTV.so",
-    "url": "https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SomosLaPampa.ar",
-    "url": "https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SomosTopoPointTV.do",
-    "url": "https://cloudflare.streamgato.us:3901/live/somostopopointtvlive.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SomosTV.ve",
-    "url": "https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SONGTVArmenia.am",
-    "url": "https://songtv.hls.iptvdc.com/web-armenia/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SONGTVRussia.ru",
-    "url": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonnenklarTV.de",
-    "url": "http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonoOndaTV.ec",
-    "url": "https://live.obslivestream.com/sonoondatv/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonyCanalCompetencias.us",
-    "url": "https://spt-competencias-2-us.roku.wurl.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonyCanalCompetencias.us",
-    "url": "https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonyCanalEscapePerfecto.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb095-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=e52ea0d7-7d74-4383-8afa-27a135057740",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonyCanalNovelas.us",
-    "url": "https://spt-novelas-2-us.roku.wurl.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonyKALHindi.us",
-    "url": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SonyKALHindi.us",
-    "url": "https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SooriyanTV.ca",
-    "url": "https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SophiaTV.de",
-    "url": "https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SophiaTV.it",
-    "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SophiaTVEspanol.de",
-    "url": "https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SophiaTVFrancais.de",
-    "url": "https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SoReal.us",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SorTV.md",
-    "url": "http://188.237.212.16:8888/live/cameraFeed.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SOSDocteurTV.tg",
-    "url": "https://wmoy82n4y2a7-hls-live.5centscdn.com/sostv/live.stream/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SOSKanalPlus.rs",
-    "url": "https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SoundViewCommunityMedia.us",
-    "url": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SoundViewCommunityMedia.us",
-    "url": "https://livestream.telvue.com/soundviewcmt1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SouthPark.fr",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/618e34ac4a270700077b1f32/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0662e4-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0d7bbd81-5b0c-45a3-b97c-c2ac8161fb85",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SowetoTV.za",
-    "url": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SOYPlanchaTV.cr",
-    "url": "https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Soyuz.ru",
-    "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SozcuTV.tr",
-    "url": "http://185.234.111.229:8000/play/a00y",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpacetoonArabic.ae",
-    "url": "https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpacetoonArabic.ae",
-    "url": "https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpaceTV.az",
-    "url": "https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Spas.ru",
-    "url": "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpectrumChannel.cl",
-    "url": "https://panel.miplay.cl:8082/spectrumchannel/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Spikeextremo.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb096-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f37a80ae-914d-4428-8a84-590464669724",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpikeOutdoors.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb097-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ba96820a-ef7c-474b-9484-5944ae6322c0",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpikePlutoTV.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb098-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7817c7c9-18cd-4d07-835d-350e94a68d2b",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SPILebanon.lb",
-    "url": "http://stream.spilebanon.com:1935/spi/myStream/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpiritOfGloryTV.ug",
-    "url": "https://panel.freedomflixtv.org:3937/hybrid/play.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpiritTV.us",
-    "url": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SpongeBobSchwammkopf.de",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af63d8-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3e6bdc7a-78a0-4fdd-8f37-ea9905c5e422",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Sport.sk",
-    "url": "http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportenFrance.fr",
-    "url": "https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportenFrance.fr",
-    "url": "https://sp1564435593.mytvchain.info/live/sp1564435593_720/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportenFrance.fr",
-    "url": "https://sp1564435593.mytvchain.info/live/sp1564435593_360/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Sportitalia.it",
-    "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsConnect.za",
-    "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsGrid.us",
-    "url": "https://sportsgrid-tribal.amagi.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsGrid.us",
-    "url": "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsGrid.us",
-    "url": "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsGrid.us",
-    "url": "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsGrid.us",
-    "url": "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsNetNewYork.us",
-    "url": "http://fl2.moveonjoy.com/SNY/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SportsTV.tr",
-    "url": "https://live.sportstv.com.tr/hls/low/sportstv.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SPTV.us",
-    "url": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SRCTV.nl",
-    "url": "http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SRF.de",
-    "url": "https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SRFernsehen.de",
-    "url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SSCActionWaleed.sa",
-    "url": "https://shls-live-event2-prod-dub.shahid.net/out/v1/0456ede1a39145d98b3d8c8062ddc998/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SSMTV.cd",
-    "url": "https://tnt-television.com/SSM-STREAM1/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "SSTV.mv",
-    "url": "https://sstv.ssplay.mv/hls/sstv-live/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StandUpTV.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a4d320-29a2-4c88-9bcb-84a407b88251",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Star101FM.gu",
-    "url": "https://live2.tensila.com/knut-v-1.choice/hls/master.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarChannel.gr",
-    "url": "http://livestar.siliconweb.com/starvod/star4/star4.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarChannelCentralAmerica.us",
-    "url": "https://streamer1.nexgen.bz/STAR/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarChannelInternational.gr",
-    "url": "https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarFolkTV.mk",
-    "url": "https://live.muzickatv.mk/live/StarMusic.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Starnet.in",
-    "url": "https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarPlusTelevizija.mk",
-    "url": "https://live.muzickatv.mk/live/StarMusic2.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarsTV.pl",
-    "url": "http://178.219.128.68:64888/STARTVHD",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarTrek.us",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StartTV.gr",
-    "url": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StartTV.us",
-    "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarTV.md",
-    "url": "http://62.233.57.226:8001/play/a008",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarTV.mn",
-    "url": "https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarTV.mn",
-    "url": "https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarTV.tr",
-    "url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "StarzComedyEast.us",
-    "url": "http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "StarzEast.us",
-    "url": "http://fl2.moveonjoy.com/STARZ/index.m3u8",
+    "url": "https://tvpass.org/live/StarzEast/sd",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
   },
   {
-    "channel": "StarzEast.us",
-    "url": "https://tvpass.org/live/StarzEast/hd",
+    "channel": "StarzEdgeEast.us",
+    "url": "http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StarzEncoreActionEast.us",
+    "url": "http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StarzEncoreClassicEast.us",
+    "url": "http://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StarzEncoreEast.us",
+    "url": "http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StarzEncoreWesternsEast.us",
+    "url": "http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "SteelbirdMusic.in",
+    "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Stereo5TV.it",
+    "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "SterkTV.be",
+    "url": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "STEuropeChannel.it",
+    "url": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayClassica.ca",
+    "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayClassicRock.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayCMusic.ca",
+    "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayDJAZZ.ca",
+    "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayEasyListening.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayEverything80s.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayFlashback70s.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayHitList.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayHolidayHits.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayHotCountry.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayKaraoke.ca",
+    "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayNaturescape.ca",
+    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayNothinBut90s.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayPopAdult.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayRockAlternative.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayRomanceLatino.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingraySmoothJazz.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingraySoulStorm.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayTheSpa.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayTodaysKPop.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayTodaysLatinPop.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StingrayUrbanBeat.ca",
+    "url": "https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StocktonGovTV.us",
+    "url": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StopklatkaTV.pl",
+    "url": "http://109.233.89.166/Stopklatka_HD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StopklatkaTV.pl",
+    "url": "http://109.233.89.170/Stopklatka_HD/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StopklatkaTV.pl",
+    "url": "http://178.219.128.68:64889/STOPTV",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StopklatkaTV.pl",
+    "url": "http://185.236.229.62:9981/play/a023",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StoriesbyAMC.us",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=376bc851-10a1-4952-ada7-86e9d28d5845",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StoriesbyAMC.us",
+    "url": "https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "STOUChannel.th",
+    "url": "https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StranaFM.ru",
+    "url": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StranaFM.ru",
+    "url": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StreekstadCentral.nl",
+    "url": "https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StreekTV.nl",
+    "url": "http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "StreekTV.nl",
+    "url": "https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Strongman.de",
+    "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
