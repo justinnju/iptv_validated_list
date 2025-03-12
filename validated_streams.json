@@ -4320,7 +4320,7 @@
   },
   {
     "channel": null,
-    "url": "https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+    "url": "https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -4328,13 +4328,6 @@
   {
     "channel": null,
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": null,
-    "url": "https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
