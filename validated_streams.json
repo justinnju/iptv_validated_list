@@ -14795,69 +14795,6 @@
     "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
     "timeshift": null,
     "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaTownTownik.am",
-    "url": "http://ott-cdn.ucom.am/s46/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "Arsenal.ru",
-    "url": "http://ott-cdn.ucom.am/s68/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ARTNTV.us",
-    "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ARTTV.gr",
-    "url": "https://til.pp.ua:3711/live/arttvgr70live.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ARTV.pt",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ArubaTVPlus.aw",
-    "url": "https://livertmptwo.com:19360/atvplusrelay/atvplusrelay.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "AryenTV.se",
-    "url": "https://aryen.tv/live/tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Asgabat.tm",
-    "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Asgabat.tm",
-    "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
     "user_agent": null
   },
   {
@@ -17423,6 +17360,13 @@
     "user_agent": null
   },
   {
+    "channel": "BubbleGuppies.de",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8b5a4bb7da5c0007e5c9e9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84aca4b0-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9f332f4-cf88-4dfa-b110-d5810536c437",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "BudapestEuropaTelevizio.hu",
     "url": "https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8",
     "timeshift": null,
@@ -19630,6 +19574,13 @@
   {
     "channel": "CCTV4America.cn",
     "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "CCTV4Asia.cn",
+    "url": "http://210.210.155.37/qwr9ew/s/s19/index.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -22904,6 +22855,13 @@
     "user_agent": null
   },
   {
+    "channel": "DragonTVInternational.cn",
+    "url": "http://210.210.155.37/x6bnqe/s/s29/index.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "DreamTurk.tr",
     "url": "http://185.234.111.229:8000/play/a01v",
     "timeshift": null,
@@ -23081,13 +23039,6 @@
   {
     "channel": "DukhNivaran.ca",
     "url": "http://cdn12.henico.net:8080/live/dncal/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "DumaTV.ru",
-    "url": "https://dumatv.iptv2022.com/index.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -24668,6 +24619,20 @@
     "user_agent": null
   },
   {
+    "channel": "FarosTV2.gr",
+    "url": "https://s1.cystream.net/live/faros2/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "FarosTV.gr",
+    "url": "https://s1.cystream.net/live/faros1/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
     "channel": "Farovision.do",
     "url": "https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8",
     "timeshift": null,
@@ -24803,6 +24768,13 @@
   {
     "channel": "FGTV.kr",
     "url": "https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8",
+    "timeshift": null,
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Fibwi.es",
+    "url": "https://hostcdn3.fibwi.com/fibwi_diario/index.fmp4.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -27475,13 +27447,6 @@
     "user_agent": null
   },
   {
-    "channel": "HLKUDTV.kr",
-    "url": "https://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
     "channel": "HLNLive.be",
     "url": "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8",
     "timeshift": null,
@@ -27946,13 +27911,6 @@
   {
     "channel": "IciRDI.ca",
     "url": "https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ICTV.us",
-    "url": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
@@ -28891,27 +28849,6 @@
   {
     "channel": "JBNTV.hn",
     "url": "https://mediacp.us:8081/jbntv/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "JBS.us",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "JBS.us",
-    "url": "http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "JBS.us",
-    "url": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8",
     "timeshift": null,
     "http_referrer": null,
     "user_agent": null
