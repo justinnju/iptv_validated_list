@@ -14767,69 +14767,6 @@
     "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
     "timeshift": null,
     "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ArmeniaTownTownik.am",
-    "url": "http://ott-cdn.ucom.am/s46/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "Arsenal.ru",
-    "url": "http://ott-cdn.ucom.am/s68/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148"
-  },
-  {
-    "channel": "ARTNTV.us",
-    "url": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ARTTV.gr",
-    "url": "https://til.pp.ua:3711/live/arttvgr70live.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ARTV.pt",
-    "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "ArubaTVPlus.aw",
-    "url": "https://livertmptwo.com:19360/atvplusrelay/atvplusrelay.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "AryenTV.se",
-    "url": "https://aryen.tv/live/tv/playlist.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Asgabat.tm",
-    "url": "https://alpha.tv.online.tm/hls/ch006.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
-    "user_agent": null
-  },
-  {
-    "channel": "Asgabat.tm",
-    "url": "https://alpha.tv.online.tm/legacyhls/ch006.m3u8",
-    "timeshift": null,
-    "http_referrer": null,
     "user_agent": null
   },
   {
