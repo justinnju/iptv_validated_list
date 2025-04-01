@@ -55473,5 +55473,26 @@
     "url": "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8",
     "referrer": null,
     "user_agent": null
+  },
+  {
+    "channel": "Zvezda.ru",
+    "feed": null,
+    "url": "https://streaming.skynetconnect.online/live/748.m3u8",
+    "referrer": "https://televizor24tochka.ru/",
+    "user_agent": null
+  },
+  {
+    "channel": "ZvezdaPlus.ru",
+    "feed": null,
+    "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ZZTV.rs",
+    "feed": null,
+    "url": "https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
+    "referrer": null,
+    "user_agent": null
   }
 ]
